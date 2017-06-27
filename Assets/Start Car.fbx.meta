@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: c24e3637692bd1c45a5cd8213f7e3a7a
+timeCreated: 1493339230
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Carro
+    100004: Farol Frontal
+    100006: Farol Traseiro
+    100008: Lamp
+    100010: Porta 01
+    100012: Porta 02
+    100014: Rodas
+    100016: //RootNode
+    400000: Camera
+    400002: Carro
+    400004: Farol Frontal
+    400006: Farol Traseiro
+    400008: Lamp
+    400010: Porta 01
+    400012: Porta 02
+    400014: Rodas
+    400016: //RootNode
+    2300000: Carro
+    2300002: Farol Frontal
+    2300004: Farol Traseiro
+    2300006: Porta 01
+    2300008: Porta 02
+    2300010: Rodas
+    3300000: Carro
+    3300002: Farol Frontal
+    3300004: Farol Traseiro
+    3300006: Porta 01
+    3300008: Porta 02
+    3300010: Rodas
+    4300000: Porta 02
+    4300002: Porta 01
+    4300004: Farol Traseiro
+    4300006: Farol Frontal
+    4300008: Rodas
+    4300010: Carro
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

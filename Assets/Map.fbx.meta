@@ -1,0 +1,3495 @@
+fileFormatVersion: 2
+guid: 07249b106295b1d4ea30810b10d7b151
+timeCreated: 1497918583
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arvore de Carvalho_00_00
+    100002: Arvore de Carvalho_00_01
+    100004: Arvore de Carvalho_00_02
+    100006: Arvore de Carvalho_00_03
+    100008: Arvore de Carvalho_00_04
+    100010: Arvore de Carvalho_00_05
+    100012: Arvore de Carvalho_00_06
+    100014: Arvore de Carvalho_00_08
+    100016: Arvore de Carvalho_00_09
+    100018: Arvore de Carvalho_00_10
+    100020: Arvore de Carvalho_00_11
+    100022: Arvore de Carvalho_00_12
+    100024: Arvore de Carvalho_00_13
+    100026: Arvore de Carvalho_00_14
+    100028: Arvore de Carvalho_00_15
+    100030: Arvore de Carvalho_00_16
+    100032: Arvore de Carvalho_00_17
+    100034: Arvore de Carvalho_00_18
+    100036: Arvore de Carvalho_00_19
+    100038: Arvore de Carvalho_00_21
+    100040: Arvore de Carvalho_00_22
+    100042: Arvore de Carvalho_00_23
+    100044: Arvore de Carvalho_00_24
+    100046: Arvore de Carvalho_00_25
+    100048: Arvore de Carvalho_00_26
+    100050: Arvore de Carvalho_00_27
+    100052: Arvore de Carvalho_00_28
+    100054: Arvore de Carvalho_00_29
+    100056: Arvore de Carvalho_00_30
+    100058: Arvore de Carvalho_00_31
+    100060: Arvore de Carvalho_00_32
+    100062: Arvore de Carvalho_00_33
+    100064: Arvore de Carvalho_00_34
+    100066: Arvore de Carvalho_00_35
+    100068: Arvore de Carvalho_00_36
+    100070: Arvore de Carvalho_00_37
+    100072: Arvore de Carvalho_00_38
+    100074: Arvore de Pinheiro_00_00
+    100076: Arvore de Pinheiro_00_01
+    100078: Arvore de Pinheiro_00_02
+    100080: Arvore de Pinheiro_00_03
+    100082: Arvore de Pinheiro_00_04
+    100084: Arvore de Pinheiro_00_05
+    100086: Arvore de Pinheiro_00_06
+    100088: Arvore de Pinheiro_00_07
+    100090: Arvore de Pinheiro_00_08
+    100092: Arvore de Pinheiro_00_09
+    100094: Arvore de Pinheiro_00_100
+    100096: Arvore de Pinheiro_00_101
+    100098: Arvore de Pinheiro_00_102
+    100100: Arvore de Pinheiro_00_103
+    100102: Arvore de Pinheiro_00_104
+    100104: Arvore de Pinheiro_00_105
+    100106: Arvore de Pinheiro_00_106
+    100108: Arvore de Pinheiro_00_107
+    100110: Arvore de Pinheiro_00_108
+    100112: Arvore de Pinheiro_00_109
+    100114: Arvore de Pinheiro_00_11
+    100116: Arvore de Pinheiro_00_110
+    100118: Arvore de Pinheiro_00_111
+    100120: Arvore de Pinheiro_00_112
+    100122: Arvore de Pinheiro_00_113
+    100124: Arvore de Pinheiro_00_114
+    100126: Arvore de Pinheiro_00_115
+    100128: Arvore de Pinheiro_00_116
+    100130: Arvore de Pinheiro_00_117
+    100132: Arvore de Pinheiro_00_118
+    100134: Arvore de Pinheiro_00_119
+    100136: Arvore de Pinheiro_00_12
+    100138: Arvore de Pinheiro_00_120
+    100140: Arvore de Pinheiro_00_121
+    100142: Arvore de Pinheiro_00_122
+    100144: Arvore de Pinheiro_00_123
+    100146: Arvore de Pinheiro_00_124
+    100148: Arvore de Pinheiro_00_125
+    100150: Arvore de Pinheiro_00_126
+    100152: Arvore de Pinheiro_00_127
+    100154: Arvore de Pinheiro_00_128
+    100156: Arvore de Pinheiro_00_129
+    100158: Arvore de Pinheiro_00_13
+    100160: Arvore de Pinheiro_00_130
+    100162: Arvore de Pinheiro_00_14
+    100164: Arvore de Pinheiro_00_15
+    100166: Arvore de Pinheiro_00_16
+    100168: Arvore de Pinheiro_00_17
+    100170: Arvore de Pinheiro_00_18
+    100172: Arvore de Pinheiro_00_19
+    100174: Arvore de Pinheiro_00_20
+    100176: Arvore de Pinheiro_00_21
+    100178: Arvore de Pinheiro_00_22
+    100180: Arvore de Pinheiro_00_23
+    100182: Arvore de Pinheiro_00_24
+    100184: Arvore de Pinheiro_00_25
+    100186: Arvore de Pinheiro_00_26
+    100188: Arvore de Pinheiro_00_27
+    100190: Arvore de Pinheiro_00_28
+    100192: Arvore de Pinheiro_00_29
+    100194: Arvore de Pinheiro_00_30
+    100196: Arvore de Pinheiro_00_31
+    100198: Arvore de Pinheiro_00_32
+    100200: Arvore de Pinheiro_00_33
+    100202: Arvore de Pinheiro_00_34
+    100204: Arvore de Pinheiro_00_35
+    100206: Arvore de Pinheiro_00_36
+    100208: Arvore de Pinheiro_00_37
+    100210: Arvore de Pinheiro_00_38
+    100212: Arvore de Pinheiro_00_39
+    100214: Arvore de Pinheiro_00_40
+    100216: Arvore de Pinheiro_00_41
+    100218: Arvore de Pinheiro_00_42
+    100220: Arvore de Pinheiro_00_43
+    100222: Arvore de Pinheiro_00_44
+    100224: Arvore de Pinheiro_00_45
+    100226: Arvore de Pinheiro_00_47
+    100228: Arvore de Pinheiro_00_48
+    100230: Arvore de Pinheiro_00_49
+    100232: Arvore de Pinheiro_00_51
+    100234: Arvore de Pinheiro_00_52
+    100236: Arvore de Pinheiro_00_53
+    100238: Arvore de Pinheiro_00_54
+    100240: Arvore de Pinheiro_00_55
+    100242: Arvore de Pinheiro_00_56
+    100244: Arvore de Pinheiro_00_57
+    100246: Arvore de Pinheiro_00_58
+    100248: Arvore de Pinheiro_00_59
+    100250: Arvore de Pinheiro_00_60
+    100252: Arvore de Pinheiro_00_61
+    100254: Arvore de Pinheiro_00_62
+    100256: Arvore de Pinheiro_00_63
+    100258: Arvore de Pinheiro_00_64
+    100260: Arvore de Pinheiro_00_65
+    100262: Arvore de Pinheiro_00_66
+    100264: Arvore de Pinheiro_00_67
+    100266: Arvore de Pinheiro_00_68
+    100268: Arvore de Pinheiro_00_69
+    100270: Arvore de Pinheiro_00_70
+    100272: Arvore de Pinheiro_00_71
+    100274: Arvore de Pinheiro_00_72
+    100276: Arvore de Pinheiro_00_73
+    100278: Arvore de Pinheiro_00_74
+    100280: Arvore de Pinheiro_00_75
+    100282: Arvore de Pinheiro_00_76
+    100284: Arvore de Pinheiro_00_77
+    100286: Arvore de Pinheiro_00_78
+    100288: Arvore de Pinheiro_00_79
+    100290: Arvore de Pinheiro_00_80
+    100292: Arvore de Pinheiro_00_81
+    100294: Arvore de Pinheiro_00_82
+    100296: Arvore de Pinheiro_00_83
+    100298: Arvore de Pinheiro_00_84
+    100300: Arvore de Pinheiro_00_85
+    100302: Arvore de Pinheiro_00_86
+    100304: Arvore de Pinheiro_00_87
+    100306: Arvore de Pinheiro_00_88
+    100308: Arvore de Pinheiro_00_89
+    100310: Arvore de Pinheiro_00_90
+    100312: Arvore de Pinheiro_00_91
+    100314: Arvore de Pinheiro_00_92
+    100316: Arvore de Pinheiro_00_93
+    100318: Arvore de Pinheiro_00_94
+    100320: Arvore de Pinheiro_00_95
+    100322: Arvore de Pinheiro_00_96
+    100324: Arvore de Pinheiro_00_97
+    100326: Arvore de Pinheiro_00_98
+    100328: Arvore de Pinheiro_00_99
+    100330: Arvore de Pinheiro_01_00
+    100332: Arvore de Pinheiro_01_01
+    100334: Arvore de Pinheiro_01_02
+    100336: Arvore de Pinheiro_01_03
+    100338: Arvore de Pinheiro_01_04
+    100340: Arvore de Pinheiro_01_05
+    100342: Arvore de Pinheiro_01_06
+    100344: Arvore de Pinheiro_01_09
+    100346: Arvore de Pinheiro_01_100
+    100348: Arvore de Pinheiro_01_101
+    100350: Arvore de Pinheiro_01_102
+    100352: Arvore de Pinheiro_01_103
+    100354: Arvore de Pinheiro_01_104
+    100356: Arvore de Pinheiro_01_105
+    100358: Arvore de Pinheiro_01_106
+    100360: Arvore de Pinheiro_01_107
+    100362: Arvore de Pinheiro_01_108
+    100364: Arvore de Pinheiro_01_109
+    100366: Arvore de Pinheiro_01_11
+    100368: Arvore de Pinheiro_01_110
+    100370: Arvore de Pinheiro_01_111
+    100372: Arvore de Pinheiro_01_112
+    100374: Arvore de Pinheiro_01_113
+    100376: Arvore de Pinheiro_01_114
+    100378: Arvore de Pinheiro_01_115
+    100380: Arvore de Pinheiro_01_116
+    100382: Arvore de Pinheiro_01_117
+    100384: Arvore de Pinheiro_01_118
+    100386: Arvore de Pinheiro_01_119
+    100388: Arvore de Pinheiro_01_12
+    100390: Arvore de Pinheiro_01_120
+    100392: Arvore de Pinheiro_01_121
+    100394: Arvore de Pinheiro_01_122
+    100396: Arvore de Pinheiro_01_123
+    100398: Arvore de Pinheiro_01_124
+    100400: Arvore de Pinheiro_01_125
+    100402: Arvore de Pinheiro_01_126
+    100404: Arvore de Pinheiro_01_127
+    100406: Arvore de Pinheiro_01_13
+    100408: Arvore de Pinheiro_01_14
+    100410: Arvore de Pinheiro_01_15
+    100412: Arvore de Pinheiro_01_16
+    100414: Arvore de Pinheiro_01_17
+    100416: Arvore de Pinheiro_01_18
+    100418: Arvore de Pinheiro_01_19
+    100420: Arvore de Pinheiro_01_20
+    100422: Arvore de Pinheiro_01_21
+    100424: Arvore de Pinheiro_01_23
+    100426: Arvore de Pinheiro_01_24
+    100428: Arvore de Pinheiro_01_25
+    100430: Arvore de Pinheiro_01_26
+    100432: Arvore de Pinheiro_01_27
+    100434: Arvore de Pinheiro_01_28
+    100436: Arvore de Pinheiro_01_29
+    100438: Arvore de Pinheiro_01_30
+    100440: Arvore de Pinheiro_01_31
+    100442: Arvore de Pinheiro_01_32
+    100444: Arvore de Pinheiro_01_33
+    100446: Arvore de Pinheiro_01_34
+    100448: Arvore de Pinheiro_01_35
+    100450: Arvore de Pinheiro_01_37
+    100452: Arvore de Pinheiro_01_38
+    100454: Arvore de Pinheiro_01_39
+    100456: Arvore de Pinheiro_01_40
+    100458: Arvore de Pinheiro_01_41
+    100460: Arvore de Pinheiro_01_42
+    100462: Arvore de Pinheiro_01_43
+    100464: Arvore de Pinheiro_01_44
+    100466: Arvore de Pinheiro_01_45
+    100468: Arvore de Pinheiro_01_46
+    100470: Arvore de Pinheiro_01_47
+    100472: Arvore de Pinheiro_01_48
+    100474: Arvore de Pinheiro_01_49
+    100476: Arvore de Pinheiro_01_50
+    100478: Arvore de Pinheiro_01_51
+    100480: Arvore de Pinheiro_01_52
+    100482: Arvore de Pinheiro_01_53
+    100484: Arvore de Pinheiro_01_54
+    100486: Arvore de Pinheiro_01_55
+    100488: Arvore de Pinheiro_01_56
+    100490: Arvore de Pinheiro_01_57
+    100492: Arvore de Pinheiro_01_58
+    100494: Arvore de Pinheiro_01_59
+    100496: Arvore de Pinheiro_01_60
+    100498: Arvore de Pinheiro_01_61
+    100500: Arvore de Pinheiro_01_62
+    100502: Arvore de Pinheiro_01_63
+    100504: Arvore de Pinheiro_01_64
+    100506: Arvore de Pinheiro_01_65
+    100508: Arvore de Pinheiro_01_66
+    100510: Arvore de Pinheiro_01_67
+    100512: Arvore de Pinheiro_01_68
+    100514: Arvore de Pinheiro_01_69
+    100516: Arvore de Pinheiro_01_70
+    100518: Arvore de Pinheiro_01_71
+    100520: Arvore de Pinheiro_01_72
+    100522: Arvore de Pinheiro_01_73
+    100524: Arvore de Pinheiro_01_74
+    100526: Arvore de Pinheiro_01_75
+    100528: Arvore de Pinheiro_01_76
+    100530: Arvore de Pinheiro_01_77
+    100532: Arvore de Pinheiro_01_78
+    100534: Arvore de Pinheiro_01_79
+    100536: Arvore de Pinheiro_01_80
+    100538: Arvore de Pinheiro_01_81
+    100540: Arvore de Pinheiro_01_82
+    100542: Arvore de Pinheiro_01_83
+    100544: Arvore de Pinheiro_01_84
+    100546: Arvore de Pinheiro_01_85
+    100548: Arvore de Pinheiro_01_86
+    100550: Arvore de Pinheiro_01_87
+    100552: Arvore de Pinheiro_01_88
+    100554: Arvore de Pinheiro_01_89
+    100556: Arvore de Pinheiro_01_90
+    100558: Arvore de Pinheiro_01_91
+    100560: Arvore de Pinheiro_01_92
+    100562: Arvore de Pinheiro_01_93
+    100564: Arvore de Pinheiro_01_94
+    100566: Arvore de Pinheiro_01_95
+    100568: Arvore de Pinheiro_01_96
+    100570: Arvore de Pinheiro_01_97
+    100572: Arvore de Pinheiro_01_98
+    100574: Arvore de Pinheiro_01_99
+    100576: Arvore Seca_00_00
+    100578: Arvore Seca_00_01
+    100580: Arvore Seca_00_03
+    100582: Arvore Seca_00_04
+    100584: Arvore Seca_00_05
+    100586: Arvore Seca_00_06
+    100588: Arvore Seca_00_07
+    100590: Arvore Seca_00_08
+    100592: Arvore Seca_00_09
+    100594: Arvore Seca_00_10
+    100596: Arvore Seca_00_11
+    100598: Arvore Seca_00_12
+    100600: Arvore Seca_00_13
+    100602: Arvore Seca_00_14
+    100604: Arvore Seca_00_15
+    100606: Arvore Seca_00_16
+    100608: Arvore Seca_00_17
+    100610: Arvore Seca_00_18
+    100612: Arvore Seca_00_19
+    100614: Arvore Seca_00_20
+    100616: Arvore Seca_00_21
+    100618: Arvore Seca_00_22
+    100620: Arvore Seca_00_23
+    100622: Arvore Seca_00_24
+    100624: Arvore Seca_00_25
+    100626: Arvore Seca_00_26
+    100628: Arvore Seca_00_27
+    100630: Arvore Seca_00_28
+    100632: Arvore Seca_00_29
+    100634: Arvore Seca_00_30
+    100636: Arvore Seca_00_31
+    100638: Arvore Seca_00_32
+    100640: Arvore Seca_00_33
+    100642: Arvore Seca_00_34
+    100644: Arvore Seca_00_35
+    100646: Arvore Seca_00_36
+    100648: Arvore Seca_00_37
+    100650: Arvore Seca_00_38
+    100652: Arvore Seca_00_39
+    100654: Arvore Seca_00_40
+    100656: Arvore Seca_00_41
+    100658: Arvore Seca_00_42
+    100660: Arvore Seca_00_43
+    100662: Arvore Seca_00_44
+    100664: Arvore Seca_00_45
+    100666: Arvore Seca_00_46
+    100668: Arvore Seca_00_47
+    100670: Arvore Seca_00_48
+    100672: Arvore Seca_00_49
+    100674: Arvore Seca_00_50
+    100676: Arvore Seca_00_51
+    100678: Arvore Seca_00_52
+    100680: Arvore Seca_00_53
+    100682: Arvore Seca_00_54
+    100684: Arvore Seca_00_55
+    100686: Arvore Seca_00_56
+    100688: Arvore Seca_00_57
+    100690: Arvore Seca_00_58
+    100692: Arvore Seca_00_59
+    100694: Arvore Seca_00_60
+    100696: Arvore Velha_00_00
+    100698: Arvore Velha_00_01
+    100700: Arvore Velha_00_02
+    100702: Arvore Velha_00_03
+    100704: Arvore Velha_00_04
+    100706: ArvoreAzul_00_00
+    100708: ArvoreAzul_00_01
+    100710: ArvoreAzul_00_02
+    100712: ArvoreAzul_00_03
+    100714: ArvoreAzul_00_04
+    100716: ArvoreAzul_00_05
+    100718: ArvoreAzul_00_06
+    100720: Barreira_00_00
+    100722: Barreira_00_01
+    100724: Barreira_00_02
+    100726: Barreira_00_03
+    100728: Base_00
+    100730: Base_01
+    100732: Base_02
+    100734: Base_03
+    100736: Becker_00
+    100738: Becker_01
+    100740: Becker_02
+    100742: Becker_03
+    100744: Becker_04
+    100746: Becker_05
+    100748: Becker_06
+    100750: Becker_07
+    100752: Becker_08
+    100754: Becker_09
+    100756: Becker_10
+    100758: Becker_11
+    100760: Becker_12
+    100762: Becker_13
+    100764: Becker_14
+    100766: Becker_15
+    100768: Bloqueio_00
+    100770: Bloqueio_01
+    100772: BombaGasolina_00
+    100774: BombaGasolina_01
+    100776: BombaGasolina_02
+    100778: BombaGasolina_03
+    100780: Box_00
+    100782: Box_01
+    100784: Box_02
+    100786: Box_03
+    100788: Box_04
+    100790: Box_05
+    100792: Box_06
+    100794: Box_07
+    100796: Box_08
+    100798: Casa Abandonada_00
+    100800: Casa Abandonada_01
+    100802: Casa_00
+    100804: Casa_01
+    100806: Casa_02
+    100808: Casa_03
+    100810: Casa_04
+    100812: Casa_05
+    100814: Casa_06
+    100816: Casa_07
+    100818: Casa_08
+    100820: Casa_09
+    100822: Casa_10
+    100824: Casa_11
+    100826: Casa_12
+    100828: Casa_13
+    100830: Casa_14
+    100832: CasaV_00
+    100834: CasaV_01
+    100836: CasaV_02
+    100838: CasaV_03
+    100840: CasaV_04
+    100842: CasaV_05
+    100844: Cylinder
+    100846: Fogueira_00
+    100848: Janela_00_00
+    100850: Janela_00_01
+    100852: Janela_00_02
+    100854: Janela_00_03
+    100856: Janela_00_04
+    100858: Janela_00_05
+    100860: Janela_01_00
+    100862: Janela_01_01
+    100864: Janela_01_02
+    100866: Janela_01_03
+    100868: Janela_01_04
+    100870: Janela_01_05
+    100872: Janela_01_06
+    100874: Janela_01_07
+    100876: Janela_02_00
+    100878: Janela_02_01
+    100880: Janela_02_02
+    100882: Janela_02_03
+    100884: Janela_03_00
+    100886: Janela_03_01
+    100888: Janela_03_02
+    100890: Janela_03_03
+    100892: Janela_03_04
+    100894: Janela_03_05
+    100896: Janela_04_01
+    100898: Janela_04_02
+    100900: Janela_04_03
+    100902: Janela_04_04
+    100904: Janela_04_05
+    100906: Janela_04_06
+    100908: Janela_04_07
+    100910: Janela_04_08
+    100912: Janela_04_09
+    100914: Janela_04_10
+    100916: Janela_04_11
+    100918: Janela_04_12
+    100920: Janela_04_13
+    100922: Janela_04_14
+    100924: Janela_04_15
+    100926: Janela_04_16
+    100928: Janela_04_17
+    100930: Janela_04_18
+    100932: Janela_04_19
+    100934: Janela_04_20
+    100936: Janela_04_21
+    100938: Janela_04_22
+    100940: Janela_04_23
+    100942: Janela_04_24
+    100944: Janela_05_00
+    100946: Janela_05_01
+    100948: Janela_05_02
+    100950: Janela_05_03
+    100952: Mala_00
+    100954: Mala_01
+    100956: Mala_02
+    100958: Mala_03
+    100960: Mala_04
+    100962: //RootNode
+    100964: Med_00
+    100966: Med_01
+    100968: MedBox_00
+    100970: MedBox_01
+    100972: MedBox_02
+    100974: Mesa_00
+    100976: Mesa_01
+    100978: Mesa_02
+    100980: Mesa_03
+    100982: Mesa_04
+    100984: Mesa_05
+    100986: Mesa_06
+    100988: Pedra Grande_00_00
+    100990: Pedra Grande_00_01
+    100992: Pedra Grande_00_02
+    100994: Pedra Grande_00_03
+    100996: Pedra Grande_00_04
+    100998: Pedra Grande_00_05
+    101000: Pedra Grande_00_06
+    101002: Pedra Grande_00_07
+    101004: Pedra Grande_01_00
+    101006: Pedra Grande_01_01
+    101008: Pedra Grande_01_02
+    101010: Pilar_00
+    101012: Pilar_01
+    101014: Pilar_02
+    101016: Pilar_03
+    101018: Placa_00
+    101020: Placa_01
+    101022: Porta_00_00
+    101024: Porta_00_01
+    101026: Porta_00_02
+    101028: Porta_00_03
+    101030: Porta_00_04
+    101032: Porta_00_05
+    101034: Porta_00_06
+    101036: Porta_01_00
+    101038: Porta_01_01
+    101040: Porta_01_02
+    101042: Porta_01_03
+    101044: Porta_01_04
+    101046: Porta_01_05
+    101048: Porta_01_06
+    101050: Porta_01_07
+    101052: Porta_01_08
+    101054: Porta_02_00
+    101056: Porta_02_01
+    101058: Porta_02_02
+    101060: Porta_02_03
+    101062: Porta_02_04
+    101064: Porta_02_05
+    101066: Porta_03_00
+    101068: Porta_03_01
+    101070: Porta_03_02
+    101072: Porta_03_03
+    101074: Porta_03_04
+    101076: Porta_03_05
+    101078: Porta_03_06
+    101080: Porta_04_00
+    101082: Porta_04_01
+    101084: Porta_05_00
+    101086: Porta_05_01
+    101088: Porta_05_02
+    101090: Porta_05_03
+    101092: Porta_05_04
+    101094: PostoCob_00
+    101096: PostoCon_00
+    101098: "Po\xE7o_00"
+    101100: Predio_00
+    101102: Predio_01
+    101104: Predio_02
+    101106: Predio_03
+    101108: Produtos Quimicos_00
+    101110: Produtos Quimicos_01
+    101112: Produtos Quimicos_02
+    101114: Produtos Quimicos_03
+    101116: Rua
+    101118: Telhado_00_00
+    101120: Telhado_01_00
+    101122: Telhado_01_00.001
+    101124: Telhado_01_01
+    101126: Telhado_01_02
+    101128: Telhado_02_00
+    101130: Terreno
+    101132: Terreno Moldura
+    101134: Terreno Moldura_MeshPart0
+    101136: Terreno Moldura_MeshPart1
+    101138: Terreno_MeshPart0
+    101140: Terreno_MeshPart1
+    101142: Tunel_00
+    400000: Arvore de Carvalho_00_00
+    400002: Arvore de Carvalho_00_01
+    400004: Arvore de Carvalho_00_02
+    400006: Arvore de Carvalho_00_03
+    400008: Arvore de Carvalho_00_04
+    400010: Arvore de Carvalho_00_05
+    400012: Arvore de Carvalho_00_06
+    400014: Arvore de Carvalho_00_08
+    400016: Arvore de Carvalho_00_09
+    400018: Arvore de Carvalho_00_10
+    400020: Arvore de Carvalho_00_11
+    400022: Arvore de Carvalho_00_12
+    400024: Arvore de Carvalho_00_13
+    400026: Arvore de Carvalho_00_14
+    400028: Arvore de Carvalho_00_15
+    400030: Arvore de Carvalho_00_16
+    400032: Arvore de Carvalho_00_17
+    400034: Arvore de Carvalho_00_18
+    400036: Arvore de Carvalho_00_19
+    400038: Arvore de Carvalho_00_21
+    400040: Arvore de Carvalho_00_22
+    400042: Arvore de Carvalho_00_23
+    400044: Arvore de Carvalho_00_24
+    400046: Arvore de Carvalho_00_25
+    400048: Arvore de Carvalho_00_26
+    400050: Arvore de Carvalho_00_27
+    400052: Arvore de Carvalho_00_28
+    400054: Arvore de Carvalho_00_29
+    400056: Arvore de Carvalho_00_30
+    400058: Arvore de Carvalho_00_31
+    400060: Arvore de Carvalho_00_32
+    400062: Arvore de Carvalho_00_33
+    400064: Arvore de Carvalho_00_34
+    400066: Arvore de Carvalho_00_35
+    400068: Arvore de Carvalho_00_36
+    400070: Arvore de Carvalho_00_37
+    400072: Arvore de Carvalho_00_38
+    400074: Arvore de Pinheiro_00_00
+    400076: Arvore de Pinheiro_00_01
+    400078: Arvore de Pinheiro_00_02
+    400080: Arvore de Pinheiro_00_03
+    400082: Arvore de Pinheiro_00_04
+    400084: Arvore de Pinheiro_00_05
+    400086: Arvore de Pinheiro_00_06
+    400088: Arvore de Pinheiro_00_07
+    400090: Arvore de Pinheiro_00_08
+    400092: Arvore de Pinheiro_00_09
+    400094: Arvore de Pinheiro_00_100
+    400096: Arvore de Pinheiro_00_101
+    400098: Arvore de Pinheiro_00_102
+    400100: Arvore de Pinheiro_00_103
+    400102: Arvore de Pinheiro_00_104
+    400104: Arvore de Pinheiro_00_105
+    400106: Arvore de Pinheiro_00_106
+    400108: Arvore de Pinheiro_00_107
+    400110: Arvore de Pinheiro_00_108
+    400112: Arvore de Pinheiro_00_109
+    400114: Arvore de Pinheiro_00_11
+    400116: Arvore de Pinheiro_00_110
+    400118: Arvore de Pinheiro_00_111
+    400120: Arvore de Pinheiro_00_112
+    400122: Arvore de Pinheiro_00_113
+    400124: Arvore de Pinheiro_00_114
+    400126: Arvore de Pinheiro_00_115
+    400128: Arvore de Pinheiro_00_116
+    400130: Arvore de Pinheiro_00_117
+    400132: Arvore de Pinheiro_00_118
+    400134: Arvore de Pinheiro_00_119
+    400136: Arvore de Pinheiro_00_12
+    400138: Arvore de Pinheiro_00_120
+    400140: Arvore de Pinheiro_00_121
+    400142: Arvore de Pinheiro_00_122
+    400144: Arvore de Pinheiro_00_123
+    400146: Arvore de Pinheiro_00_124
+    400148: Arvore de Pinheiro_00_125
+    400150: Arvore de Pinheiro_00_126
+    400152: Arvore de Pinheiro_00_127
+    400154: Arvore de Pinheiro_00_128
+    400156: Arvore de Pinheiro_00_129
+    400158: Arvore de Pinheiro_00_13
+    400160: Arvore de Pinheiro_00_130
+    400162: Arvore de Pinheiro_00_14
+    400164: Arvore de Pinheiro_00_15
+    400166: Arvore de Pinheiro_00_16
+    400168: Arvore de Pinheiro_00_17
+    400170: Arvore de Pinheiro_00_18
+    400172: Arvore de Pinheiro_00_19
+    400174: Arvore de Pinheiro_00_20
+    400176: Arvore de Pinheiro_00_21
+    400178: Arvore de Pinheiro_00_22
+    400180: Arvore de Pinheiro_00_23
+    400182: Arvore de Pinheiro_00_24
+    400184: Arvore de Pinheiro_00_25
+    400186: Arvore de Pinheiro_00_26
+    400188: Arvore de Pinheiro_00_27
+    400190: Arvore de Pinheiro_00_28
+    400192: Arvore de Pinheiro_00_29
+    400194: Arvore de Pinheiro_00_30
+    400196: Arvore de Pinheiro_00_31
+    400198: Arvore de Pinheiro_00_32
+    400200: Arvore de Pinheiro_00_33
+    400202: Arvore de Pinheiro_00_34
+    400204: Arvore de Pinheiro_00_35
+    400206: Arvore de Pinheiro_00_36
+    400208: Arvore de Pinheiro_00_37
+    400210: Arvore de Pinheiro_00_38
+    400212: Arvore de Pinheiro_00_39
+    400214: Arvore de Pinheiro_00_40
+    400216: Arvore de Pinheiro_00_41
+    400218: Arvore de Pinheiro_00_42
+    400220: Arvore de Pinheiro_00_43
+    400222: Arvore de Pinheiro_00_44
+    400224: Arvore de Pinheiro_00_45
+    400226: Arvore de Pinheiro_00_47
+    400228: Arvore de Pinheiro_00_48
+    400230: Arvore de Pinheiro_00_49
+    400232: Arvore de Pinheiro_00_51
+    400234: Arvore de Pinheiro_00_52
+    400236: Arvore de Pinheiro_00_53
+    400238: Arvore de Pinheiro_00_54
+    400240: Arvore de Pinheiro_00_55
+    400242: Arvore de Pinheiro_00_56
+    400244: Arvore de Pinheiro_00_57
+    400246: Arvore de Pinheiro_00_58
+    400248: Arvore de Pinheiro_00_59
+    400250: Arvore de Pinheiro_00_60
+    400252: Arvore de Pinheiro_00_61
+    400254: Arvore de Pinheiro_00_62
+    400256: Arvore de Pinheiro_00_63
+    400258: Arvore de Pinheiro_00_64
+    400260: Arvore de Pinheiro_00_65
+    400262: Arvore de Pinheiro_00_66
+    400264: Arvore de Pinheiro_00_67
+    400266: Arvore de Pinheiro_00_68
+    400268: Arvore de Pinheiro_00_69
+    400270: Arvore de Pinheiro_00_70
+    400272: Arvore de Pinheiro_00_71
+    400274: Arvore de Pinheiro_00_72
+    400276: Arvore de Pinheiro_00_73
+    400278: Arvore de Pinheiro_00_74
+    400280: Arvore de Pinheiro_00_75
+    400282: Arvore de Pinheiro_00_76
+    400284: Arvore de Pinheiro_00_77
+    400286: Arvore de Pinheiro_00_78
+    400288: Arvore de Pinheiro_00_79
+    400290: Arvore de Pinheiro_00_80
+    400292: Arvore de Pinheiro_00_81
+    400294: Arvore de Pinheiro_00_82
+    400296: Arvore de Pinheiro_00_83
+    400298: Arvore de Pinheiro_00_84
+    400300: Arvore de Pinheiro_00_85
+    400302: Arvore de Pinheiro_00_86
+    400304: Arvore de Pinheiro_00_87
+    400306: Arvore de Pinheiro_00_88
+    400308: Arvore de Pinheiro_00_89
+    400310: Arvore de Pinheiro_00_90
+    400312: Arvore de Pinheiro_00_91
+    400314: Arvore de Pinheiro_00_92
+    400316: Arvore de Pinheiro_00_93
+    400318: Arvore de Pinheiro_00_94
+    400320: Arvore de Pinheiro_00_95
+    400322: Arvore de Pinheiro_00_96
+    400324: Arvore de Pinheiro_00_97
+    400326: Arvore de Pinheiro_00_98
+    400328: Arvore de Pinheiro_00_99
+    400330: Arvore de Pinheiro_01_00
+    400332: Arvore de Pinheiro_01_01
+    400334: Arvore de Pinheiro_01_02
+    400336: Arvore de Pinheiro_01_03
+    400338: Arvore de Pinheiro_01_04
+    400340: Arvore de Pinheiro_01_05
+    400342: Arvore de Pinheiro_01_06
+    400344: Arvore de Pinheiro_01_09
+    400346: Arvore de Pinheiro_01_100
+    400348: Arvore de Pinheiro_01_101
+    400350: Arvore de Pinheiro_01_102
+    400352: Arvore de Pinheiro_01_103
+    400354: Arvore de Pinheiro_01_104
+    400356: Arvore de Pinheiro_01_105
+    400358: Arvore de Pinheiro_01_106
+    400360: Arvore de Pinheiro_01_107
+    400362: Arvore de Pinheiro_01_108
+    400364: Arvore de Pinheiro_01_109
+    400366: Arvore de Pinheiro_01_11
+    400368: Arvore de Pinheiro_01_110
+    400370: Arvore de Pinheiro_01_111
+    400372: Arvore de Pinheiro_01_112
+    400374: Arvore de Pinheiro_01_113
+    400376: Arvore de Pinheiro_01_114
+    400378: Arvore de Pinheiro_01_115
+    400380: Arvore de Pinheiro_01_116
+    400382: Arvore de Pinheiro_01_117
+    400384: Arvore de Pinheiro_01_118
+    400386: Arvore de Pinheiro_01_119
+    400388: Arvore de Pinheiro_01_12
+    400390: Arvore de Pinheiro_01_120
+    400392: Arvore de Pinheiro_01_121
+    400394: Arvore de Pinheiro_01_122
+    400396: Arvore de Pinheiro_01_123
+    400398: Arvore de Pinheiro_01_124
+    400400: Arvore de Pinheiro_01_125
+    400402: Arvore de Pinheiro_01_126
+    400404: Arvore de Pinheiro_01_127
+    400406: Arvore de Pinheiro_01_13
+    400408: Arvore de Pinheiro_01_14
+    400410: Arvore de Pinheiro_01_15
+    400412: Arvore de Pinheiro_01_16
+    400414: Arvore de Pinheiro_01_17
+    400416: Arvore de Pinheiro_01_18
+    400418: Arvore de Pinheiro_01_19
+    400420: Arvore de Pinheiro_01_20
+    400422: Arvore de Pinheiro_01_21
+    400424: Arvore de Pinheiro_01_23
+    400426: Arvore de Pinheiro_01_24
+    400428: Arvore de Pinheiro_01_25
+    400430: Arvore de Pinheiro_01_26
+    400432: Arvore de Pinheiro_01_27
+    400434: Arvore de Pinheiro_01_28
+    400436: Arvore de Pinheiro_01_29
+    400438: Arvore de Pinheiro_01_30
+    400440: Arvore de Pinheiro_01_31
+    400442: Arvore de Pinheiro_01_32
+    400444: Arvore de Pinheiro_01_33
+    400446: Arvore de Pinheiro_01_34
+    400448: Arvore de Pinheiro_01_35
+    400450: Arvore de Pinheiro_01_37
+    400452: Arvore de Pinheiro_01_38
+    400454: Arvore de Pinheiro_01_39
+    400456: Arvore de Pinheiro_01_40
+    400458: Arvore de Pinheiro_01_41
+    400460: Arvore de Pinheiro_01_42
+    400462: Arvore de Pinheiro_01_43
+    400464: Arvore de Pinheiro_01_44
+    400466: Arvore de Pinheiro_01_45
+    400468: Arvore de Pinheiro_01_46
+    400470: Arvore de Pinheiro_01_47
+    400472: Arvore de Pinheiro_01_48
+    400474: Arvore de Pinheiro_01_49
+    400476: Arvore de Pinheiro_01_50
+    400478: Arvore de Pinheiro_01_51
+    400480: Arvore de Pinheiro_01_52
+    400482: Arvore de Pinheiro_01_53
+    400484: Arvore de Pinheiro_01_54
+    400486: Arvore de Pinheiro_01_55
+    400488: Arvore de Pinheiro_01_56
+    400490: Arvore de Pinheiro_01_57
+    400492: Arvore de Pinheiro_01_58
+    400494: Arvore de Pinheiro_01_59
+    400496: Arvore de Pinheiro_01_60
+    400498: Arvore de Pinheiro_01_61
+    400500: Arvore de Pinheiro_01_62
+    400502: Arvore de Pinheiro_01_63
+    400504: Arvore de Pinheiro_01_64
+    400506: Arvore de Pinheiro_01_65
+    400508: Arvore de Pinheiro_01_66
+    400510: Arvore de Pinheiro_01_67
+    400512: Arvore de Pinheiro_01_68
+    400514: Arvore de Pinheiro_01_69
+    400516: Arvore de Pinheiro_01_70
+    400518: Arvore de Pinheiro_01_71
+    400520: Arvore de Pinheiro_01_72
+    400522: Arvore de Pinheiro_01_73
+    400524: Arvore de Pinheiro_01_74
+    400526: Arvore de Pinheiro_01_75
+    400528: Arvore de Pinheiro_01_76
+    400530: Arvore de Pinheiro_01_77
+    400532: Arvore de Pinheiro_01_78
+    400534: Arvore de Pinheiro_01_79
+    400536: Arvore de Pinheiro_01_80
+    400538: Arvore de Pinheiro_01_81
+    400540: Arvore de Pinheiro_01_82
+    400542: Arvore de Pinheiro_01_83
+    400544: Arvore de Pinheiro_01_84
+    400546: Arvore de Pinheiro_01_85
+    400548: Arvore de Pinheiro_01_86
+    400550: Arvore de Pinheiro_01_87
+    400552: Arvore de Pinheiro_01_88
+    400554: Arvore de Pinheiro_01_89
+    400556: Arvore de Pinheiro_01_90
+    400558: Arvore de Pinheiro_01_91
+    400560: Arvore de Pinheiro_01_92
+    400562: Arvore de Pinheiro_01_93
+    400564: Arvore de Pinheiro_01_94
+    400566: Arvore de Pinheiro_01_95
+    400568: Arvore de Pinheiro_01_96
+    400570: Arvore de Pinheiro_01_97
+    400572: Arvore de Pinheiro_01_98
+    400574: Arvore de Pinheiro_01_99
+    400576: Arvore Seca_00_00
+    400578: Arvore Seca_00_01
+    400580: Arvore Seca_00_03
+    400582: Arvore Seca_00_04
+    400584: Arvore Seca_00_05
+    400586: Arvore Seca_00_06
+    400588: Arvore Seca_00_07
+    400590: Arvore Seca_00_08
+    400592: Arvore Seca_00_09
+    400594: Arvore Seca_00_10
+    400596: Arvore Seca_00_11
+    400598: Arvore Seca_00_12
+    400600: Arvore Seca_00_13
+    400602: Arvore Seca_00_14
+    400604: Arvore Seca_00_15
+    400606: Arvore Seca_00_16
+    400608: Arvore Seca_00_17
+    400610: Arvore Seca_00_18
+    400612: Arvore Seca_00_19
+    400614: Arvore Seca_00_20
+    400616: Arvore Seca_00_21
+    400618: Arvore Seca_00_22
+    400620: Arvore Seca_00_23
+    400622: Arvore Seca_00_24
+    400624: Arvore Seca_00_25
+    400626: Arvore Seca_00_26
+    400628: Arvore Seca_00_27
+    400630: Arvore Seca_00_28
+    400632: Arvore Seca_00_29
+    400634: Arvore Seca_00_30
+    400636: Arvore Seca_00_31
+    400638: Arvore Seca_00_32
+    400640: Arvore Seca_00_33
+    400642: Arvore Seca_00_34
+    400644: Arvore Seca_00_35
+    400646: Arvore Seca_00_36
+    400648: Arvore Seca_00_37
+    400650: Arvore Seca_00_38
+    400652: Arvore Seca_00_39
+    400654: Arvore Seca_00_40
+    400656: Arvore Seca_00_41
+    400658: Arvore Seca_00_42
+    400660: Arvore Seca_00_43
+    400662: Arvore Seca_00_44
+    400664: Arvore Seca_00_45
+    400666: Arvore Seca_00_46
+    400668: Arvore Seca_00_47
+    400670: Arvore Seca_00_48
+    400672: Arvore Seca_00_49
+    400674: Arvore Seca_00_50
+    400676: Arvore Seca_00_51
+    400678: Arvore Seca_00_52
+    400680: Arvore Seca_00_53
+    400682: Arvore Seca_00_54
+    400684: Arvore Seca_00_55
+    400686: Arvore Seca_00_56
+    400688: Arvore Seca_00_57
+    400690: Arvore Seca_00_58
+    400692: Arvore Seca_00_59
+    400694: Arvore Seca_00_60
+    400696: Arvore Velha_00_00
+    400698: Arvore Velha_00_01
+    400700: Arvore Velha_00_02
+    400702: Arvore Velha_00_03
+    400704: Arvore Velha_00_04
+    400706: ArvoreAzul_00_00
+    400708: ArvoreAzul_00_01
+    400710: ArvoreAzul_00_02
+    400712: ArvoreAzul_00_03
+    400714: ArvoreAzul_00_04
+    400716: ArvoreAzul_00_05
+    400718: ArvoreAzul_00_06
+    400720: Barreira_00_00
+    400722: Barreira_00_01
+    400724: Barreira_00_02
+    400726: Barreira_00_03
+    400728: Base_00
+    400730: Base_01
+    400732: Base_02
+    400734: Base_03
+    400736: Becker_00
+    400738: Becker_01
+    400740: Becker_02
+    400742: Becker_03
+    400744: Becker_04
+    400746: Becker_05
+    400748: Becker_06
+    400750: Becker_07
+    400752: Becker_08
+    400754: Becker_09
+    400756: Becker_10
+    400758: Becker_11
+    400760: Becker_12
+    400762: Becker_13
+    400764: Becker_14
+    400766: Becker_15
+    400768: Bloqueio_00
+    400770: Bloqueio_01
+    400772: BombaGasolina_00
+    400774: BombaGasolina_01
+    400776: BombaGasolina_02
+    400778: BombaGasolina_03
+    400780: Box_00
+    400782: Box_01
+    400784: Box_02
+    400786: Box_03
+    400788: Box_04
+    400790: Box_05
+    400792: Box_06
+    400794: Box_07
+    400796: Box_08
+    400798: Casa Abandonada_00
+    400800: Casa Abandonada_01
+    400802: Casa_00
+    400804: Casa_01
+    400806: Casa_02
+    400808: Casa_03
+    400810: Casa_04
+    400812: Casa_05
+    400814: Casa_06
+    400816: Casa_07
+    400818: Casa_08
+    400820: Casa_09
+    400822: Casa_10
+    400824: Casa_11
+    400826: Casa_12
+    400828: Casa_13
+    400830: Casa_14
+    400832: CasaV_00
+    400834: CasaV_01
+    400836: CasaV_02
+    400838: CasaV_03
+    400840: CasaV_04
+    400842: CasaV_05
+    400844: Cylinder
+    400846: Fogueira_00
+    400848: Janela_00_00
+    400850: Janela_00_01
+    400852: Janela_00_02
+    400854: Janela_00_03
+    400856: Janela_00_04
+    400858: Janela_00_05
+    400860: Janela_01_00
+    400862: Janela_01_01
+    400864: Janela_01_02
+    400866: Janela_01_03
+    400868: Janela_01_04
+    400870: Janela_01_05
+    400872: Janela_01_06
+    400874: Janela_01_07
+    400876: Janela_02_00
+    400878: Janela_02_01
+    400880: Janela_02_02
+    400882: Janela_02_03
+    400884: Janela_03_00
+    400886: Janela_03_01
+    400888: Janela_03_02
+    400890: Janela_03_03
+    400892: Janela_03_04
+    400894: Janela_03_05
+    400896: Janela_04_01
+    400898: Janela_04_02
+    400900: Janela_04_03
+    400902: Janela_04_04
+    400904: Janela_04_05
+    400906: Janela_04_06
+    400908: Janela_04_07
+    400910: Janela_04_08
+    400912: Janela_04_09
+    400914: Janela_04_10
+    400916: Janela_04_11
+    400918: Janela_04_12
+    400920: Janela_04_13
+    400922: Janela_04_14
+    400924: Janela_04_15
+    400926: Janela_04_16
+    400928: Janela_04_17
+    400930: Janela_04_18
+    400932: Janela_04_19
+    400934: Janela_04_20
+    400936: Janela_04_21
+    400938: Janela_04_22
+    400940: Janela_04_23
+    400942: Janela_04_24
+    400944: Janela_05_00
+    400946: Janela_05_01
+    400948: Janela_05_02
+    400950: Janela_05_03
+    400952: Mala_00
+    400954: Mala_01
+    400956: Mala_02
+    400958: Mala_03
+    400960: Mala_04
+    400962: //RootNode
+    400964: Med_00
+    400966: Med_01
+    400968: MedBox_00
+    400970: MedBox_01
+    400972: MedBox_02
+    400974: Mesa_00
+    400976: Mesa_01
+    400978: Mesa_02
+    400980: Mesa_03
+    400982: Mesa_04
+    400984: Mesa_05
+    400986: Mesa_06
+    400988: Pedra Grande_00_00
+    400990: Pedra Grande_00_01
+    400992: Pedra Grande_00_02
+    400994: Pedra Grande_00_03
+    400996: Pedra Grande_00_04
+    400998: Pedra Grande_00_05
+    401000: Pedra Grande_00_06
+    401002: Pedra Grande_00_07
+    401004: Pedra Grande_01_00
+    401006: Pedra Grande_01_01
+    401008: Pedra Grande_01_02
+    401010: Pilar_00
+    401012: Pilar_01
+    401014: Pilar_02
+    401016: Pilar_03
+    401018: Placa_00
+    401020: Placa_01
+    401022: Porta_00_00
+    401024: Porta_00_01
+    401026: Porta_00_02
+    401028: Porta_00_03
+    401030: Porta_00_04
+    401032: Porta_00_05
+    401034: Porta_00_06
+    401036: Porta_01_00
+    401038: Porta_01_01
+    401040: Porta_01_02
+    401042: Porta_01_03
+    401044: Porta_01_04
+    401046: Porta_01_05
+    401048: Porta_01_06
+    401050: Porta_01_07
+    401052: Porta_01_08
+    401054: Porta_02_00
+    401056: Porta_02_01
+    401058: Porta_02_02
+    401060: Porta_02_03
+    401062: Porta_02_04
+    401064: Porta_02_05
+    401066: Porta_03_00
+    401068: Porta_03_01
+    401070: Porta_03_02
+    401072: Porta_03_03
+    401074: Porta_03_04
+    401076: Porta_03_05
+    401078: Porta_03_06
+    401080: Porta_04_00
+    401082: Porta_04_01
+    401084: Porta_05_00
+    401086: Porta_05_01
+    401088: Porta_05_02
+    401090: Porta_05_03
+    401092: Porta_05_04
+    401094: PostoCob_00
+    401096: PostoCon_00
+    401098: "Po\xE7o_00"
+    401100: Predio_00
+    401102: Predio_01
+    401104: Predio_02
+    401106: Predio_03
+    401108: Produtos Quimicos_00
+    401110: Produtos Quimicos_01
+    401112: Produtos Quimicos_02
+    401114: Produtos Quimicos_03
+    401116: Rua
+    401118: Telhado_00_00
+    401120: Telhado_01_00
+    401122: Telhado_01_00.001
+    401124: Telhado_01_01
+    401126: Telhado_01_02
+    401128: Telhado_02_00
+    401130: Terreno
+    401132: Terreno Moldura
+    401134: Terreno Moldura_MeshPart0
+    401136: Terreno Moldura_MeshPart1
+    401138: Terreno_MeshPart0
+    401140: Terreno_MeshPart1
+    401142: Tunel_00
+    2300000: Arvore de Carvalho_00_00
+    2300002: Arvore de Carvalho_00_01
+    2300004: Arvore de Carvalho_00_02
+    2300006: Arvore de Carvalho_00_03
+    2300008: Arvore de Carvalho_00_04
+    2300010: Arvore de Carvalho_00_05
+    2300012: Arvore de Carvalho_00_06
+    2300014: Arvore de Carvalho_00_08
+    2300016: Arvore de Carvalho_00_09
+    2300018: Arvore de Carvalho_00_10
+    2300020: Arvore de Carvalho_00_11
+    2300022: Arvore de Carvalho_00_12
+    2300024: Arvore de Carvalho_00_13
+    2300026: Arvore de Carvalho_00_14
+    2300028: Arvore de Carvalho_00_15
+    2300030: Arvore de Carvalho_00_16
+    2300032: Arvore de Carvalho_00_17
+    2300034: Arvore de Carvalho_00_18
+    2300036: Arvore de Carvalho_00_19
+    2300038: Arvore de Carvalho_00_21
+    2300040: Arvore de Carvalho_00_22
+    2300042: Arvore de Carvalho_00_23
+    2300044: Arvore de Carvalho_00_24
+    2300046: Arvore de Carvalho_00_25
+    2300048: Arvore de Carvalho_00_26
+    2300050: Arvore de Carvalho_00_27
+    2300052: Arvore de Carvalho_00_28
+    2300054: Arvore de Carvalho_00_29
+    2300056: Arvore de Carvalho_00_30
+    2300058: Arvore de Carvalho_00_31
+    2300060: Arvore de Carvalho_00_32
+    2300062: Arvore de Carvalho_00_33
+    2300064: Arvore de Carvalho_00_34
+    2300066: Arvore de Carvalho_00_35
+    2300068: Arvore de Carvalho_00_36
+    2300070: Arvore de Carvalho_00_37
+    2300072: Arvore de Carvalho_00_38
+    2300074: Arvore de Pinheiro_00_00
+    2300076: Arvore de Pinheiro_00_01
+    2300078: Arvore de Pinheiro_00_02
+    2300080: Arvore de Pinheiro_00_03
+    2300082: Arvore de Pinheiro_00_04
+    2300084: Arvore de Pinheiro_00_05
+    2300086: Arvore de Pinheiro_00_06
+    2300088: Arvore de Pinheiro_00_07
+    2300090: Arvore de Pinheiro_00_08
+    2300092: Arvore de Pinheiro_00_09
+    2300094: Arvore de Pinheiro_00_100
+    2300096: Arvore de Pinheiro_00_101
+    2300098: Arvore de Pinheiro_00_102
+    2300100: Arvore de Pinheiro_00_103
+    2300102: Arvore de Pinheiro_00_104
+    2300104: Arvore de Pinheiro_00_105
+    2300106: Arvore de Pinheiro_00_106
+    2300108: Arvore de Pinheiro_00_107
+    2300110: Arvore de Pinheiro_00_108
+    2300112: Arvore de Pinheiro_00_109
+    2300114: Arvore de Pinheiro_00_11
+    2300116: Arvore de Pinheiro_00_110
+    2300118: Arvore de Pinheiro_00_111
+    2300120: Arvore de Pinheiro_00_112
+    2300122: Arvore de Pinheiro_00_113
+    2300124: Arvore de Pinheiro_00_114
+    2300126: Arvore de Pinheiro_00_115
+    2300128: Arvore de Pinheiro_00_116
+    2300130: Arvore de Pinheiro_00_117
+    2300132: Arvore de Pinheiro_00_118
+    2300134: Arvore de Pinheiro_00_119
+    2300136: Arvore de Pinheiro_00_12
+    2300138: Arvore de Pinheiro_00_120
+    2300140: Arvore de Pinheiro_00_121
+    2300142: Arvore de Pinheiro_00_122
+    2300144: Arvore de Pinheiro_00_123
+    2300146: Arvore de Pinheiro_00_124
+    2300148: Arvore de Pinheiro_00_125
+    2300150: Arvore de Pinheiro_00_126
+    2300152: Arvore de Pinheiro_00_127
+    2300154: Arvore de Pinheiro_00_128
+    2300156: Arvore de Pinheiro_00_129
+    2300158: Arvore de Pinheiro_00_13
+    2300160: Arvore de Pinheiro_00_130
+    2300162: Arvore de Pinheiro_00_14
+    2300164: Arvore de Pinheiro_00_15
+    2300166: Arvore de Pinheiro_00_16
+    2300168: Arvore de Pinheiro_00_17
+    2300170: Arvore de Pinheiro_00_18
+    2300172: Arvore de Pinheiro_00_19
+    2300174: Arvore de Pinheiro_00_20
+    2300176: Arvore de Pinheiro_00_21
+    2300178: Arvore de Pinheiro_00_22
+    2300180: Arvore de Pinheiro_00_23
+    2300182: Arvore de Pinheiro_00_24
+    2300184: Arvore de Pinheiro_00_25
+    2300186: Arvore de Pinheiro_00_26
+    2300188: Arvore de Pinheiro_00_27
+    2300190: Arvore de Pinheiro_00_28
+    2300192: Arvore de Pinheiro_00_29
+    2300194: Arvore de Pinheiro_00_30
+    2300196: Arvore de Pinheiro_00_31
+    2300198: Arvore de Pinheiro_00_32
+    2300200: Arvore de Pinheiro_00_33
+    2300202: Arvore de Pinheiro_00_34
+    2300204: Arvore de Pinheiro_00_35
+    2300206: Arvore de Pinheiro_00_36
+    2300208: Arvore de Pinheiro_00_37
+    2300210: Arvore de Pinheiro_00_38
+    2300212: Arvore de Pinheiro_00_39
+    2300214: Arvore de Pinheiro_00_40
+    2300216: Arvore de Pinheiro_00_41
+    2300218: Arvore de Pinheiro_00_42
+    2300220: Arvore de Pinheiro_00_43
+    2300222: Arvore de Pinheiro_00_44
+    2300224: Arvore de Pinheiro_00_45
+    2300226: Arvore de Pinheiro_00_47
+    2300228: Arvore de Pinheiro_00_48
+    2300230: Arvore de Pinheiro_00_49
+    2300232: Arvore de Pinheiro_00_51
+    2300234: Arvore de Pinheiro_00_52
+    2300236: Arvore de Pinheiro_00_53
+    2300238: Arvore de Pinheiro_00_54
+    2300240: Arvore de Pinheiro_00_55
+    2300242: Arvore de Pinheiro_00_56
+    2300244: Arvore de Pinheiro_00_57
+    2300246: Arvore de Pinheiro_00_58
+    2300248: Arvore de Pinheiro_00_59
+    2300250: Arvore de Pinheiro_00_60
+    2300252: Arvore de Pinheiro_00_61
+    2300254: Arvore de Pinheiro_00_62
+    2300256: Arvore de Pinheiro_00_63
+    2300258: Arvore de Pinheiro_00_64
+    2300260: Arvore de Pinheiro_00_65
+    2300262: Arvore de Pinheiro_00_66
+    2300264: Arvore de Pinheiro_00_67
+    2300266: Arvore de Pinheiro_00_68
+    2300268: Arvore de Pinheiro_00_69
+    2300270: Arvore de Pinheiro_00_70
+    2300272: Arvore de Pinheiro_00_71
+    2300274: Arvore de Pinheiro_00_72
+    2300276: Arvore de Pinheiro_00_73
+    2300278: Arvore de Pinheiro_00_74
+    2300280: Arvore de Pinheiro_00_75
+    2300282: Arvore de Pinheiro_00_76
+    2300284: Arvore de Pinheiro_00_77
+    2300286: Arvore de Pinheiro_00_78
+    2300288: Arvore de Pinheiro_00_79
+    2300290: Arvore de Pinheiro_00_80
+    2300292: Arvore de Pinheiro_00_81
+    2300294: Arvore de Pinheiro_00_82
+    2300296: Arvore de Pinheiro_00_83
+    2300298: Arvore de Pinheiro_00_84
+    2300300: Arvore de Pinheiro_00_85
+    2300302: Arvore de Pinheiro_00_86
+    2300304: Arvore de Pinheiro_00_87
+    2300306: Arvore de Pinheiro_00_88
+    2300308: Arvore de Pinheiro_00_89
+    2300310: Arvore de Pinheiro_00_90
+    2300312: Arvore de Pinheiro_00_91
+    2300314: Arvore de Pinheiro_00_92
+    2300316: Arvore de Pinheiro_00_93
+    2300318: Arvore de Pinheiro_00_94
+    2300320: Arvore de Pinheiro_00_95
+    2300322: Arvore de Pinheiro_00_96
+    2300324: Arvore de Pinheiro_00_97
+    2300326: Arvore de Pinheiro_00_98
+    2300328: Arvore de Pinheiro_00_99
+    2300330: Arvore de Pinheiro_01_00
+    2300332: Arvore de Pinheiro_01_01
+    2300334: Arvore de Pinheiro_01_02
+    2300336: Arvore de Pinheiro_01_03
+    2300338: Arvore de Pinheiro_01_04
+    2300340: Arvore de Pinheiro_01_05
+    2300342: Arvore de Pinheiro_01_06
+    2300344: Arvore de Pinheiro_01_09
+    2300346: Arvore de Pinheiro_01_100
+    2300348: Arvore de Pinheiro_01_101
+    2300350: Arvore de Pinheiro_01_102
+    2300352: Arvore de Pinheiro_01_103
+    2300354: Arvore de Pinheiro_01_104
+    2300356: Arvore de Pinheiro_01_105
+    2300358: Arvore de Pinheiro_01_106
+    2300360: Arvore de Pinheiro_01_107
+    2300362: Arvore de Pinheiro_01_108
+    2300364: Arvore de Pinheiro_01_109
+    2300366: Arvore de Pinheiro_01_11
+    2300368: Arvore de Pinheiro_01_110
+    2300370: Arvore de Pinheiro_01_111
+    2300372: Arvore de Pinheiro_01_112
+    2300374: Arvore de Pinheiro_01_113
+    2300376: Arvore de Pinheiro_01_114
+    2300378: Arvore de Pinheiro_01_115
+    2300380: Arvore de Pinheiro_01_116
+    2300382: Arvore de Pinheiro_01_117
+    2300384: Arvore de Pinheiro_01_118
+    2300386: Arvore de Pinheiro_01_119
+    2300388: Arvore de Pinheiro_01_12
+    2300390: Arvore de Pinheiro_01_120
+    2300392: Arvore de Pinheiro_01_121
+    2300394: Arvore de Pinheiro_01_122
+    2300396: Arvore de Pinheiro_01_123
+    2300398: Arvore de Pinheiro_01_124
+    2300400: Arvore de Pinheiro_01_125
+    2300402: Arvore de Pinheiro_01_126
+    2300404: Arvore de Pinheiro_01_127
+    2300406: Arvore de Pinheiro_01_13
+    2300408: Arvore de Pinheiro_01_14
+    2300410: Arvore de Pinheiro_01_15
+    2300412: Arvore de Pinheiro_01_16
+    2300414: Arvore de Pinheiro_01_17
+    2300416: Arvore de Pinheiro_01_18
+    2300418: Arvore de Pinheiro_01_19
+    2300420: Arvore de Pinheiro_01_20
+    2300422: Arvore de Pinheiro_01_21
+    2300424: Arvore de Pinheiro_01_23
+    2300426: Arvore de Pinheiro_01_24
+    2300428: Arvore de Pinheiro_01_25
+    2300430: Arvore de Pinheiro_01_26
+    2300432: Arvore de Pinheiro_01_27
+    2300434: Arvore de Pinheiro_01_28
+    2300436: Arvore de Pinheiro_01_29
+    2300438: Arvore de Pinheiro_01_30
+    2300440: Arvore de Pinheiro_01_31
+    2300442: Arvore de Pinheiro_01_32
+    2300444: Arvore de Pinheiro_01_33
+    2300446: Arvore de Pinheiro_01_34
+    2300448: Arvore de Pinheiro_01_35
+    2300450: Arvore de Pinheiro_01_37
+    2300452: Arvore de Pinheiro_01_38
+    2300454: Arvore de Pinheiro_01_39
+    2300456: Arvore de Pinheiro_01_40
+    2300458: Arvore de Pinheiro_01_41
+    2300460: Arvore de Pinheiro_01_42
+    2300462: Arvore de Pinheiro_01_43
+    2300464: Arvore de Pinheiro_01_44
+    2300466: Arvore de Pinheiro_01_45
+    2300468: Arvore de Pinheiro_01_46
+    2300470: Arvore de Pinheiro_01_47
+    2300472: Arvore de Pinheiro_01_48
+    2300474: Arvore de Pinheiro_01_49
+    2300476: Arvore de Pinheiro_01_50
+    2300478: Arvore de Pinheiro_01_51
+    2300480: Arvore de Pinheiro_01_52
+    2300482: Arvore de Pinheiro_01_53
+    2300484: Arvore de Pinheiro_01_54
+    2300486: Arvore de Pinheiro_01_55
+    2300488: Arvore de Pinheiro_01_56
+    2300490: Arvore de Pinheiro_01_57
+    2300492: Arvore de Pinheiro_01_58
+    2300494: Arvore de Pinheiro_01_59
+    2300496: Arvore de Pinheiro_01_60
+    2300498: Arvore de Pinheiro_01_61
+    2300500: Arvore de Pinheiro_01_62
+    2300502: Arvore de Pinheiro_01_63
+    2300504: Arvore de Pinheiro_01_64
+    2300506: Arvore de Pinheiro_01_65
+    2300508: Arvore de Pinheiro_01_66
+    2300510: Arvore de Pinheiro_01_67
+    2300512: Arvore de Pinheiro_01_68
+    2300514: Arvore de Pinheiro_01_69
+    2300516: Arvore de Pinheiro_01_70
+    2300518: Arvore de Pinheiro_01_71
+    2300520: Arvore de Pinheiro_01_72
+    2300522: Arvore de Pinheiro_01_73
+    2300524: Arvore de Pinheiro_01_74
+    2300526: Arvore de Pinheiro_01_75
+    2300528: Arvore de Pinheiro_01_76
+    2300530: Arvore de Pinheiro_01_77
+    2300532: Arvore de Pinheiro_01_78
+    2300534: Arvore de Pinheiro_01_79
+    2300536: Arvore de Pinheiro_01_80
+    2300538: Arvore de Pinheiro_01_81
+    2300540: Arvore de Pinheiro_01_82
+    2300542: Arvore de Pinheiro_01_83
+    2300544: Arvore de Pinheiro_01_84
+    2300546: Arvore de Pinheiro_01_85
+    2300548: Arvore de Pinheiro_01_86
+    2300550: Arvore de Pinheiro_01_87
+    2300552: Arvore de Pinheiro_01_88
+    2300554: Arvore de Pinheiro_01_89
+    2300556: Arvore de Pinheiro_01_90
+    2300558: Arvore de Pinheiro_01_91
+    2300560: Arvore de Pinheiro_01_92
+    2300562: Arvore de Pinheiro_01_93
+    2300564: Arvore de Pinheiro_01_94
+    2300566: Arvore de Pinheiro_01_95
+    2300568: Arvore de Pinheiro_01_96
+    2300570: Arvore de Pinheiro_01_97
+    2300572: Arvore de Pinheiro_01_98
+    2300574: Arvore de Pinheiro_01_99
+    2300576: Arvore Seca_00_00
+    2300578: Arvore Seca_00_01
+    2300580: Arvore Seca_00_03
+    2300582: Arvore Seca_00_04
+    2300584: Arvore Seca_00_05
+    2300586: Arvore Seca_00_06
+    2300588: Arvore Seca_00_07
+    2300590: Arvore Seca_00_08
+    2300592: Arvore Seca_00_09
+    2300594: Arvore Seca_00_10
+    2300596: Arvore Seca_00_11
+    2300598: Arvore Seca_00_12
+    2300600: Arvore Seca_00_13
+    2300602: Arvore Seca_00_14
+    2300604: Arvore Seca_00_15
+    2300606: Arvore Seca_00_16
+    2300608: Arvore Seca_00_17
+    2300610: Arvore Seca_00_18
+    2300612: Arvore Seca_00_19
+    2300614: Arvore Seca_00_20
+    2300616: Arvore Seca_00_21
+    2300618: Arvore Seca_00_22
+    2300620: Arvore Seca_00_23
+    2300622: Arvore Seca_00_24
+    2300624: Arvore Seca_00_25
+    2300626: Arvore Seca_00_26
+    2300628: Arvore Seca_00_27
+    2300630: Arvore Seca_00_28
+    2300632: Arvore Seca_00_29
+    2300634: Arvore Seca_00_30
+    2300636: Arvore Seca_00_31
+    2300638: Arvore Seca_00_32
+    2300640: Arvore Seca_00_33
+    2300642: Arvore Seca_00_34
+    2300644: Arvore Seca_00_35
+    2300646: Arvore Seca_00_36
+    2300648: Arvore Seca_00_37
+    2300650: Arvore Seca_00_38
+    2300652: Arvore Seca_00_39
+    2300654: Arvore Seca_00_40
+    2300656: Arvore Seca_00_41
+    2300658: Arvore Seca_00_42
+    2300660: Arvore Seca_00_43
+    2300662: Arvore Seca_00_44
+    2300664: Arvore Seca_00_45
+    2300666: Arvore Seca_00_46
+    2300668: Arvore Seca_00_47
+    2300670: Arvore Seca_00_48
+    2300672: Arvore Seca_00_49
+    2300674: Arvore Seca_00_50
+    2300676: Arvore Seca_00_51
+    2300678: Arvore Seca_00_52
+    2300680: Arvore Seca_00_53
+    2300682: Arvore Seca_00_54
+    2300684: Arvore Seca_00_55
+    2300686: Arvore Seca_00_56
+    2300688: Arvore Seca_00_57
+    2300690: Arvore Seca_00_58
+    2300692: Arvore Seca_00_59
+    2300694: Arvore Seca_00_60
+    2300696: Arvore Velha_00_00
+    2300698: Arvore Velha_00_01
+    2300700: Arvore Velha_00_02
+    2300702: Arvore Velha_00_03
+    2300704: Arvore Velha_00_04
+    2300706: ArvoreAzul_00_00
+    2300708: ArvoreAzul_00_01
+    2300710: ArvoreAzul_00_02
+    2300712: ArvoreAzul_00_03
+    2300714: ArvoreAzul_00_04
+    2300716: ArvoreAzul_00_05
+    2300718: ArvoreAzul_00_06
+    2300720: Barreira_00_00
+    2300722: Barreira_00_01
+    2300724: Barreira_00_02
+    2300726: Barreira_00_03
+    2300728: Base_00
+    2300730: Base_01
+    2300732: Base_02
+    2300734: Base_03
+    2300736: Becker_00
+    2300738: Becker_01
+    2300740: Becker_02
+    2300742: Becker_03
+    2300744: Becker_04
+    2300746: Becker_05
+    2300748: Becker_06
+    2300750: Becker_07
+    2300752: Becker_08
+    2300754: Becker_09
+    2300756: Becker_10
+    2300758: Becker_11
+    2300760: Becker_12
+    2300762: Becker_13
+    2300764: Becker_14
+    2300766: Becker_15
+    2300768: Bloqueio_00
+    2300770: Bloqueio_01
+    2300772: BombaGasolina_00
+    2300774: BombaGasolina_01
+    2300776: BombaGasolina_02
+    2300778: BombaGasolina_03
+    2300780: Box_00
+    2300782: Box_01
+    2300784: Box_02
+    2300786: Box_03
+    2300788: Box_04
+    2300790: Box_05
+    2300792: Box_06
+    2300794: Box_07
+    2300796: Box_08
+    2300798: Casa Abandonada_00
+    2300800: Casa Abandonada_01
+    2300802: Casa_00
+    2300804: Casa_01
+    2300806: Casa_02
+    2300808: Casa_03
+    2300810: Casa_04
+    2300812: Casa_05
+    2300814: Casa_06
+    2300816: Casa_07
+    2300818: Casa_08
+    2300820: Casa_09
+    2300822: Casa_10
+    2300824: Casa_11
+    2300826: Casa_12
+    2300828: Casa_13
+    2300830: Casa_14
+    2300832: CasaV_00
+    2300834: CasaV_01
+    2300836: CasaV_02
+    2300838: CasaV_03
+    2300840: CasaV_04
+    2300842: CasaV_05
+    2300844: Cylinder
+    2300846: Fogueira_00
+    2300848: Janela_00_00
+    2300850: Janela_00_01
+    2300852: Janela_00_02
+    2300854: Janela_00_03
+    2300856: Janela_00_04
+    2300858: Janela_00_05
+    2300860: Janela_01_00
+    2300862: Janela_01_01
+    2300864: Janela_01_02
+    2300866: Janela_01_03
+    2300868: Janela_01_04
+    2300870: Janela_01_05
+    2300872: Janela_01_06
+    2300874: Janela_01_07
+    2300876: Janela_02_00
+    2300878: Janela_02_01
+    2300880: Janela_02_02
+    2300882: Janela_02_03
+    2300884: Janela_03_00
+    2300886: Janela_03_01
+    2300888: Janela_03_02
+    2300890: Janela_03_03
+    2300892: Janela_03_04
+    2300894: Janela_03_05
+    2300896: Janela_04_01
+    2300898: Janela_04_02
+    2300900: Janela_04_03
+    2300902: Janela_04_04
+    2300904: Janela_04_05
+    2300906: Janela_04_06
+    2300908: Janela_04_07
+    2300910: Janela_04_08
+    2300912: Janela_04_09
+    2300914: Janela_04_10
+    2300916: Janela_04_11
+    2300918: Janela_04_12
+    2300920: Janela_04_13
+    2300922: Janela_04_14
+    2300924: Janela_04_15
+    2300926: Janela_04_16
+    2300928: Janela_04_17
+    2300930: Janela_04_18
+    2300932: Janela_04_19
+    2300934: Janela_04_20
+    2300936: Janela_04_21
+    2300938: Janela_04_22
+    2300940: Janela_04_23
+    2300942: Janela_04_24
+    2300944: Janela_05_00
+    2300946: Janela_05_01
+    2300948: Janela_05_02
+    2300950: Janela_05_03
+    2300952: Mala_00
+    2300954: Mala_01
+    2300956: Mala_02
+    2300958: Mala_03
+    2300960: Mala_04
+    2300962: Med_00
+    2300964: Med_01
+    2300966: MedBox_00
+    2300968: MedBox_01
+    2300970: MedBox_02
+    2300972: Mesa_00
+    2300974: Mesa_01
+    2300976: Mesa_02
+    2300978: Mesa_03
+    2300980: Mesa_04
+    2300982: Mesa_05
+    2300984: Mesa_06
+    2300986: Pedra Grande_00_00
+    2300988: Pedra Grande_00_01
+    2300990: Pedra Grande_00_02
+    2300992: Pedra Grande_00_03
+    2300994: Pedra Grande_00_04
+    2300996: Pedra Grande_00_05
+    2300998: Pedra Grande_00_06
+    2301000: Pedra Grande_00_07
+    2301002: Pedra Grande_01_00
+    2301004: Pedra Grande_01_01
+    2301006: Pedra Grande_01_02
+    2301008: Pilar_00
+    2301010: Pilar_01
+    2301012: Pilar_02
+    2301014: Pilar_03
+    2301016: Placa_00
+    2301018: Placa_01
+    2301020: Porta_00_00
+    2301022: Porta_00_01
+    2301024: Porta_00_02
+    2301026: Porta_00_03
+    2301028: Porta_00_04
+    2301030: Porta_00_05
+    2301032: Porta_00_06
+    2301034: Porta_01_00
+    2301036: Porta_01_01
+    2301038: Porta_01_02
+    2301040: Porta_01_03
+    2301042: Porta_01_04
+    2301044: Porta_01_05
+    2301046: Porta_01_06
+    2301048: Porta_01_07
+    2301050: Porta_01_08
+    2301052: Porta_02_00
+    2301054: Porta_02_01
+    2301056: Porta_02_02
+    2301058: Porta_02_03
+    2301060: Porta_02_04
+    2301062: Porta_02_05
+    2301064: Porta_03_00
+    2301066: Porta_03_01
+    2301068: Porta_03_02
+    2301070: Porta_03_03
+    2301072: Porta_03_04
+    2301074: Porta_03_05
+    2301076: Porta_03_06
+    2301078: Porta_04_00
+    2301080: Porta_04_01
+    2301082: Porta_05_00
+    2301084: Porta_05_01
+    2301086: Porta_05_02
+    2301088: Porta_05_03
+    2301090: Porta_05_04
+    2301092: PostoCob_00
+    2301094: PostoCon_00
+    2301096: "Po\xE7o_00"
+    2301098: Predio_00
+    2301100: Predio_01
+    2301102: Predio_02
+    2301104: Predio_03
+    2301106: Produtos Quimicos_00
+    2301108: Produtos Quimicos_01
+    2301110: Produtos Quimicos_02
+    2301112: Produtos Quimicos_03
+    2301114: Rua
+    2301116: Telhado_00_00
+    2301118: Telhado_01_00
+    2301120: Telhado_01_00.001
+    2301122: Telhado_01_01
+    2301124: Telhado_01_02
+    2301126: Telhado_02_00
+    2301128: Terreno Moldura_MeshPart0
+    2301130: Terreno Moldura_MeshPart1
+    2301132: Terreno_MeshPart0
+    2301134: Terreno_MeshPart1
+    2301136: Tunel_00
+    3300000: Arvore de Carvalho_00_00
+    3300002: Arvore de Carvalho_00_01
+    3300004: Arvore de Carvalho_00_02
+    3300006: Arvore de Carvalho_00_03
+    3300008: Arvore de Carvalho_00_04
+    3300010: Arvore de Carvalho_00_05
+    3300012: Arvore de Carvalho_00_06
+    3300014: Arvore de Carvalho_00_08
+    3300016: Arvore de Carvalho_00_09
+    3300018: Arvore de Carvalho_00_10
+    3300020: Arvore de Carvalho_00_11
+    3300022: Arvore de Carvalho_00_12
+    3300024: Arvore de Carvalho_00_13
+    3300026: Arvore de Carvalho_00_14
+    3300028: Arvore de Carvalho_00_15
+    3300030: Arvore de Carvalho_00_16
+    3300032: Arvore de Carvalho_00_17
+    3300034: Arvore de Carvalho_00_18
+    3300036: Arvore de Carvalho_00_19
+    3300038: Arvore de Carvalho_00_21
+    3300040: Arvore de Carvalho_00_22
+    3300042: Arvore de Carvalho_00_23
+    3300044: Arvore de Carvalho_00_24
+    3300046: Arvore de Carvalho_00_25
+    3300048: Arvore de Carvalho_00_26
+    3300050: Arvore de Carvalho_00_27
+    3300052: Arvore de Carvalho_00_28
+    3300054: Arvore de Carvalho_00_29
+    3300056: Arvore de Carvalho_00_30
+    3300058: Arvore de Carvalho_00_31
+    3300060: Arvore de Carvalho_00_32
+    3300062: Arvore de Carvalho_00_33
+    3300064: Arvore de Carvalho_00_34
+    3300066: Arvore de Carvalho_00_35
+    3300068: Arvore de Carvalho_00_36
+    3300070: Arvore de Carvalho_00_37
+    3300072: Arvore de Carvalho_00_38
+    3300074: Arvore de Pinheiro_00_00
+    3300076: Arvore de Pinheiro_00_01
+    3300078: Arvore de Pinheiro_00_02
+    3300080: Arvore de Pinheiro_00_03
+    3300082: Arvore de Pinheiro_00_04
+    3300084: Arvore de Pinheiro_00_05
+    3300086: Arvore de Pinheiro_00_06
+    3300088: Arvore de Pinheiro_00_07
+    3300090: Arvore de Pinheiro_00_08
+    3300092: Arvore de Pinheiro_00_09
+    3300094: Arvore de Pinheiro_00_100
+    3300096: Arvore de Pinheiro_00_101
+    3300098: Arvore de Pinheiro_00_102
+    3300100: Arvore de Pinheiro_00_103
+    3300102: Arvore de Pinheiro_00_104
+    3300104: Arvore de Pinheiro_00_105
+    3300106: Arvore de Pinheiro_00_106
+    3300108: Arvore de Pinheiro_00_107
+    3300110: Arvore de Pinheiro_00_108
+    3300112: Arvore de Pinheiro_00_109
+    3300114: Arvore de Pinheiro_00_11
+    3300116: Arvore de Pinheiro_00_110
+    3300118: Arvore de Pinheiro_00_111
+    3300120: Arvore de Pinheiro_00_112
+    3300122: Arvore de Pinheiro_00_113
+    3300124: Arvore de Pinheiro_00_114
+    3300126: Arvore de Pinheiro_00_115
+    3300128: Arvore de Pinheiro_00_116
+    3300130: Arvore de Pinheiro_00_117
+    3300132: Arvore de Pinheiro_00_118
+    3300134: Arvore de Pinheiro_00_119
+    3300136: Arvore de Pinheiro_00_12
+    3300138: Arvore de Pinheiro_00_120
+    3300140: Arvore de Pinheiro_00_121
+    3300142: Arvore de Pinheiro_00_122
+    3300144: Arvore de Pinheiro_00_123
+    3300146: Arvore de Pinheiro_00_124
+    3300148: Arvore de Pinheiro_00_125
+    3300150: Arvore de Pinheiro_00_126
+    3300152: Arvore de Pinheiro_00_127
+    3300154: Arvore de Pinheiro_00_128
+    3300156: Arvore de Pinheiro_00_129
+    3300158: Arvore de Pinheiro_00_13
+    3300160: Arvore de Pinheiro_00_130
+    3300162: Arvore de Pinheiro_00_14
+    3300164: Arvore de Pinheiro_00_15
+    3300166: Arvore de Pinheiro_00_16
+    3300168: Arvore de Pinheiro_00_17
+    3300170: Arvore de Pinheiro_00_18
+    3300172: Arvore de Pinheiro_00_19
+    3300174: Arvore de Pinheiro_00_20
+    3300176: Arvore de Pinheiro_00_21
+    3300178: Arvore de Pinheiro_00_22
+    3300180: Arvore de Pinheiro_00_23
+    3300182: Arvore de Pinheiro_00_24
+    3300184: Arvore de Pinheiro_00_25
+    3300186: Arvore de Pinheiro_00_26
+    3300188: Arvore de Pinheiro_00_27
+    3300190: Arvore de Pinheiro_00_28
+    3300192: Arvore de Pinheiro_00_29
+    3300194: Arvore de Pinheiro_00_30
+    3300196: Arvore de Pinheiro_00_31
+    3300198: Arvore de Pinheiro_00_32
+    3300200: Arvore de Pinheiro_00_33
+    3300202: Arvore de Pinheiro_00_34
+    3300204: Arvore de Pinheiro_00_35
+    3300206: Arvore de Pinheiro_00_36
+    3300208: Arvore de Pinheiro_00_37
+    3300210: Arvore de Pinheiro_00_38
+    3300212: Arvore de Pinheiro_00_39
+    3300214: Arvore de Pinheiro_00_40
+    3300216: Arvore de Pinheiro_00_41
+    3300218: Arvore de Pinheiro_00_42
+    3300220: Arvore de Pinheiro_00_43
+    3300222: Arvore de Pinheiro_00_44
+    3300224: Arvore de Pinheiro_00_45
+    3300226: Arvore de Pinheiro_00_47
+    3300228: Arvore de Pinheiro_00_48
+    3300230: Arvore de Pinheiro_00_49
+    3300232: Arvore de Pinheiro_00_51
+    3300234: Arvore de Pinheiro_00_52
+    3300236: Arvore de Pinheiro_00_53
+    3300238: Arvore de Pinheiro_00_54
+    3300240: Arvore de Pinheiro_00_55
+    3300242: Arvore de Pinheiro_00_56
+    3300244: Arvore de Pinheiro_00_57
+    3300246: Arvore de Pinheiro_00_58
+    3300248: Arvore de Pinheiro_00_59
+    3300250: Arvore de Pinheiro_00_60
+    3300252: Arvore de Pinheiro_00_61
+    3300254: Arvore de Pinheiro_00_62
+    3300256: Arvore de Pinheiro_00_63
+    3300258: Arvore de Pinheiro_00_64
+    3300260: Arvore de Pinheiro_00_65
+    3300262: Arvore de Pinheiro_00_66
+    3300264: Arvore de Pinheiro_00_67
+    3300266: Arvore de Pinheiro_00_68
+    3300268: Arvore de Pinheiro_00_69
+    3300270: Arvore de Pinheiro_00_70
+    3300272: Arvore de Pinheiro_00_71
+    3300274: Arvore de Pinheiro_00_72
+    3300276: Arvore de Pinheiro_00_73
+    3300278: Arvore de Pinheiro_00_74
+    3300280: Arvore de Pinheiro_00_75
+    3300282: Arvore de Pinheiro_00_76
+    3300284: Arvore de Pinheiro_00_77
+    3300286: Arvore de Pinheiro_00_78
+    3300288: Arvore de Pinheiro_00_79
+    3300290: Arvore de Pinheiro_00_80
+    3300292: Arvore de Pinheiro_00_81
+    3300294: Arvore de Pinheiro_00_82
+    3300296: Arvore de Pinheiro_00_83
+    3300298: Arvore de Pinheiro_00_84
+    3300300: Arvore de Pinheiro_00_85
+    3300302: Arvore de Pinheiro_00_86
+    3300304: Arvore de Pinheiro_00_87
+    3300306: Arvore de Pinheiro_00_88
+    3300308: Arvore de Pinheiro_00_89
+    3300310: Arvore de Pinheiro_00_90
+    3300312: Arvore de Pinheiro_00_91
+    3300314: Arvore de Pinheiro_00_92
+    3300316: Arvore de Pinheiro_00_93
+    3300318: Arvore de Pinheiro_00_94
+    3300320: Arvore de Pinheiro_00_95
+    3300322: Arvore de Pinheiro_00_96
+    3300324: Arvore de Pinheiro_00_97
+    3300326: Arvore de Pinheiro_00_98
+    3300328: Arvore de Pinheiro_00_99
+    3300330: Arvore de Pinheiro_01_00
+    3300332: Arvore de Pinheiro_01_01
+    3300334: Arvore de Pinheiro_01_02
+    3300336: Arvore de Pinheiro_01_03
+    3300338: Arvore de Pinheiro_01_04
+    3300340: Arvore de Pinheiro_01_05
+    3300342: Arvore de Pinheiro_01_06
+    3300344: Arvore de Pinheiro_01_09
+    3300346: Arvore de Pinheiro_01_100
+    3300348: Arvore de Pinheiro_01_101
+    3300350: Arvore de Pinheiro_01_102
+    3300352: Arvore de Pinheiro_01_103
+    3300354: Arvore de Pinheiro_01_104
+    3300356: Arvore de Pinheiro_01_105
+    3300358: Arvore de Pinheiro_01_106
+    3300360: Arvore de Pinheiro_01_107
+    3300362: Arvore de Pinheiro_01_108
+    3300364: Arvore de Pinheiro_01_109
+    3300366: Arvore de Pinheiro_01_11
+    3300368: Arvore de Pinheiro_01_110
+    3300370: Arvore de Pinheiro_01_111
+    3300372: Arvore de Pinheiro_01_112
+    3300374: Arvore de Pinheiro_01_113
+    3300376: Arvore de Pinheiro_01_114
+    3300378: Arvore de Pinheiro_01_115
+    3300380: Arvore de Pinheiro_01_116
+    3300382: Arvore de Pinheiro_01_117
+    3300384: Arvore de Pinheiro_01_118
+    3300386: Arvore de Pinheiro_01_119
+    3300388: Arvore de Pinheiro_01_12
+    3300390: Arvore de Pinheiro_01_120
+    3300392: Arvore de Pinheiro_01_121
+    3300394: Arvore de Pinheiro_01_122
+    3300396: Arvore de Pinheiro_01_123
+    3300398: Arvore de Pinheiro_01_124
+    3300400: Arvore de Pinheiro_01_125
+    3300402: Arvore de Pinheiro_01_126
+    3300404: Arvore de Pinheiro_01_127
+    3300406: Arvore de Pinheiro_01_13
+    3300408: Arvore de Pinheiro_01_14
+    3300410: Arvore de Pinheiro_01_15
+    3300412: Arvore de Pinheiro_01_16
+    3300414: Arvore de Pinheiro_01_17
+    3300416: Arvore de Pinheiro_01_18
+    3300418: Arvore de Pinheiro_01_19
+    3300420: Arvore de Pinheiro_01_20
+    3300422: Arvore de Pinheiro_01_21
+    3300424: Arvore de Pinheiro_01_23
+    3300426: Arvore de Pinheiro_01_24
+    3300428: Arvore de Pinheiro_01_25
+    3300430: Arvore de Pinheiro_01_26
+    3300432: Arvore de Pinheiro_01_27
+    3300434: Arvore de Pinheiro_01_28
+    3300436: Arvore de Pinheiro_01_29
+    3300438: Arvore de Pinheiro_01_30
+    3300440: Arvore de Pinheiro_01_31
+    3300442: Arvore de Pinheiro_01_32
+    3300444: Arvore de Pinheiro_01_33
+    3300446: Arvore de Pinheiro_01_34
+    3300448: Arvore de Pinheiro_01_35
+    3300450: Arvore de Pinheiro_01_37
+    3300452: Arvore de Pinheiro_01_38
+    3300454: Arvore de Pinheiro_01_39
+    3300456: Arvore de Pinheiro_01_40
+    3300458: Arvore de Pinheiro_01_41
+    3300460: Arvore de Pinheiro_01_42
+    3300462: Arvore de Pinheiro_01_43
+    3300464: Arvore de Pinheiro_01_44
+    3300466: Arvore de Pinheiro_01_45
+    3300468: Arvore de Pinheiro_01_46
+    3300470: Arvore de Pinheiro_01_47
+    3300472: Arvore de Pinheiro_01_48
+    3300474: Arvore de Pinheiro_01_49
+    3300476: Arvore de Pinheiro_01_50
+    3300478: Arvore de Pinheiro_01_51
+    3300480: Arvore de Pinheiro_01_52
+    3300482: Arvore de Pinheiro_01_53
+    3300484: Arvore de Pinheiro_01_54
+    3300486: Arvore de Pinheiro_01_55
+    3300488: Arvore de Pinheiro_01_56
+    3300490: Arvore de Pinheiro_01_57
+    3300492: Arvore de Pinheiro_01_58
+    3300494: Arvore de Pinheiro_01_59
+    3300496: Arvore de Pinheiro_01_60
+    3300498: Arvore de Pinheiro_01_61
+    3300500: Arvore de Pinheiro_01_62
+    3300502: Arvore de Pinheiro_01_63
+    3300504: Arvore de Pinheiro_01_64
+    3300506: Arvore de Pinheiro_01_65
+    3300508: Arvore de Pinheiro_01_66
+    3300510: Arvore de Pinheiro_01_67
+    3300512: Arvore de Pinheiro_01_68
+    3300514: Arvore de Pinheiro_01_69
+    3300516: Arvore de Pinheiro_01_70
+    3300518: Arvore de Pinheiro_01_71
+    3300520: Arvore de Pinheiro_01_72
+    3300522: Arvore de Pinheiro_01_73
+    3300524: Arvore de Pinheiro_01_74
+    3300526: Arvore de Pinheiro_01_75
+    3300528: Arvore de Pinheiro_01_76
+    3300530: Arvore de Pinheiro_01_77
+    3300532: Arvore de Pinheiro_01_78
+    3300534: Arvore de Pinheiro_01_79
+    3300536: Arvore de Pinheiro_01_80
+    3300538: Arvore de Pinheiro_01_81
+    3300540: Arvore de Pinheiro_01_82
+    3300542: Arvore de Pinheiro_01_83
+    3300544: Arvore de Pinheiro_01_84
+    3300546: Arvore de Pinheiro_01_85
+    3300548: Arvore de Pinheiro_01_86
+    3300550: Arvore de Pinheiro_01_87
+    3300552: Arvore de Pinheiro_01_88
+    3300554: Arvore de Pinheiro_01_89
+    3300556: Arvore de Pinheiro_01_90
+    3300558: Arvore de Pinheiro_01_91
+    3300560: Arvore de Pinheiro_01_92
+    3300562: Arvore de Pinheiro_01_93
+    3300564: Arvore de Pinheiro_01_94
+    3300566: Arvore de Pinheiro_01_95
+    3300568: Arvore de Pinheiro_01_96
+    3300570: Arvore de Pinheiro_01_97
+    3300572: Arvore de Pinheiro_01_98
+    3300574: Arvore de Pinheiro_01_99
+    3300576: Arvore Seca_00_00
+    3300578: Arvore Seca_00_01
+    3300580: Arvore Seca_00_03
+    3300582: Arvore Seca_00_04
+    3300584: Arvore Seca_00_05
+    3300586: Arvore Seca_00_06
+    3300588: Arvore Seca_00_07
+    3300590: Arvore Seca_00_08
+    3300592: Arvore Seca_00_09
+    3300594: Arvore Seca_00_10
+    3300596: Arvore Seca_00_11
+    3300598: Arvore Seca_00_12
+    3300600: Arvore Seca_00_13
+    3300602: Arvore Seca_00_14
+    3300604: Arvore Seca_00_15
+    3300606: Arvore Seca_00_16
+    3300608: Arvore Seca_00_17
+    3300610: Arvore Seca_00_18
+    3300612: Arvore Seca_00_19
+    3300614: Arvore Seca_00_20
+    3300616: Arvore Seca_00_21
+    3300618: Arvore Seca_00_22
+    3300620: Arvore Seca_00_23
+    3300622: Arvore Seca_00_24
+    3300624: Arvore Seca_00_25
+    3300626: Arvore Seca_00_26
+    3300628: Arvore Seca_00_27
+    3300630: Arvore Seca_00_28
+    3300632: Arvore Seca_00_29
+    3300634: Arvore Seca_00_30
+    3300636: Arvore Seca_00_31
+    3300638: Arvore Seca_00_32
+    3300640: Arvore Seca_00_33
+    3300642: Arvore Seca_00_34
+    3300644: Arvore Seca_00_35
+    3300646: Arvore Seca_00_36
+    3300648: Arvore Seca_00_37
+    3300650: Arvore Seca_00_38
+    3300652: Arvore Seca_00_39
+    3300654: Arvore Seca_00_40
+    3300656: Arvore Seca_00_41
+    3300658: Arvore Seca_00_42
+    3300660: Arvore Seca_00_43
+    3300662: Arvore Seca_00_44
+    3300664: Arvore Seca_00_45
+    3300666: Arvore Seca_00_46
+    3300668: Arvore Seca_00_47
+    3300670: Arvore Seca_00_48
+    3300672: Arvore Seca_00_49
+    3300674: Arvore Seca_00_50
+    3300676: Arvore Seca_00_51
+    3300678: Arvore Seca_00_52
+    3300680: Arvore Seca_00_53
+    3300682: Arvore Seca_00_54
+    3300684: Arvore Seca_00_55
+    3300686: Arvore Seca_00_56
+    3300688: Arvore Seca_00_57
+    3300690: Arvore Seca_00_58
+    3300692: Arvore Seca_00_59
+    3300694: Arvore Seca_00_60
+    3300696: Arvore Velha_00_00
+    3300698: Arvore Velha_00_01
+    3300700: Arvore Velha_00_02
+    3300702: Arvore Velha_00_03
+    3300704: Arvore Velha_00_04
+    3300706: ArvoreAzul_00_00
+    3300708: ArvoreAzul_00_01
+    3300710: ArvoreAzul_00_02
+    3300712: ArvoreAzul_00_03
+    3300714: ArvoreAzul_00_04
+    3300716: ArvoreAzul_00_05
+    3300718: ArvoreAzul_00_06
+    3300720: Barreira_00_00
+    3300722: Barreira_00_01
+    3300724: Barreira_00_02
+    3300726: Barreira_00_03
+    3300728: Base_00
+    3300730: Base_01
+    3300732: Base_02
+    3300734: Base_03
+    3300736: Becker_00
+    3300738: Becker_01
+    3300740: Becker_02
+    3300742: Becker_03
+    3300744: Becker_04
+    3300746: Becker_05
+    3300748: Becker_06
+    3300750: Becker_07
+    3300752: Becker_08
+    3300754: Becker_09
+    3300756: Becker_10
+    3300758: Becker_11
+    3300760: Becker_12
+    3300762: Becker_13
+    3300764: Becker_14
+    3300766: Becker_15
+    3300768: Bloqueio_00
+    3300770: Bloqueio_01
+    3300772: BombaGasolina_00
+    3300774: BombaGasolina_01
+    3300776: BombaGasolina_02
+    3300778: BombaGasolina_03
+    3300780: Box_00
+    3300782: Box_01
+    3300784: Box_02
+    3300786: Box_03
+    3300788: Box_04
+    3300790: Box_05
+    3300792: Box_06
+    3300794: Box_07
+    3300796: Box_08
+    3300798: Casa Abandonada_00
+    3300800: Casa Abandonada_01
+    3300802: Casa_00
+    3300804: Casa_01
+    3300806: Casa_02
+    3300808: Casa_03
+    3300810: Casa_04
+    3300812: Casa_05
+    3300814: Casa_06
+    3300816: Casa_07
+    3300818: Casa_08
+    3300820: Casa_09
+    3300822: Casa_10
+    3300824: Casa_11
+    3300826: Casa_12
+    3300828: Casa_13
+    3300830: Casa_14
+    3300832: CasaV_00
+    3300834: CasaV_01
+    3300836: CasaV_02
+    3300838: CasaV_03
+    3300840: CasaV_04
+    3300842: CasaV_05
+    3300844: Cylinder
+    3300846: Fogueira_00
+    3300848: Janela_00_00
+    3300850: Janela_00_01
+    3300852: Janela_00_02
+    3300854: Janela_00_03
+    3300856: Janela_00_04
+    3300858: Janela_00_05
+    3300860: Janela_01_00
+    3300862: Janela_01_01
+    3300864: Janela_01_02
+    3300866: Janela_01_03
+    3300868: Janela_01_04
+    3300870: Janela_01_05
+    3300872: Janela_01_06
+    3300874: Janela_01_07
+    3300876: Janela_02_00
+    3300878: Janela_02_01
+    3300880: Janela_02_02
+    3300882: Janela_02_03
+    3300884: Janela_03_00
+    3300886: Janela_03_01
+    3300888: Janela_03_02
+    3300890: Janela_03_03
+    3300892: Janela_03_04
+    3300894: Janela_03_05
+    3300896: Janela_04_01
+    3300898: Janela_04_02
+    3300900: Janela_04_03
+    3300902: Janela_04_04
+    3300904: Janela_04_05
+    3300906: Janela_04_06
+    3300908: Janela_04_07
+    3300910: Janela_04_08
+    3300912: Janela_04_09
+    3300914: Janela_04_10
+    3300916: Janela_04_11
+    3300918: Janela_04_12
+    3300920: Janela_04_13
+    3300922: Janela_04_14
+    3300924: Janela_04_15
+    3300926: Janela_04_16
+    3300928: Janela_04_17
+    3300930: Janela_04_18
+    3300932: Janela_04_19
+    3300934: Janela_04_20
+    3300936: Janela_04_21
+    3300938: Janela_04_22
+    3300940: Janela_04_23
+    3300942: Janela_04_24
+    3300944: Janela_05_00
+    3300946: Janela_05_01
+    3300948: Janela_05_02
+    3300950: Janela_05_03
+    3300952: Mala_00
+    3300954: Mala_01
+    3300956: Mala_02
+    3300958: Mala_03
+    3300960: Mala_04
+    3300962: Med_00
+    3300964: Med_01
+    3300966: MedBox_00
+    3300968: MedBox_01
+    3300970: MedBox_02
+    3300972: Mesa_00
+    3300974: Mesa_01
+    3300976: Mesa_02
+    3300978: Mesa_03
+    3300980: Mesa_04
+    3300982: Mesa_05
+    3300984: Mesa_06
+    3300986: Pedra Grande_00_00
+    3300988: Pedra Grande_00_01
+    3300990: Pedra Grande_00_02
+    3300992: Pedra Grande_00_03
+    3300994: Pedra Grande_00_04
+    3300996: Pedra Grande_00_05
+    3300998: Pedra Grande_00_06
+    3301000: Pedra Grande_00_07
+    3301002: Pedra Grande_01_00
+    3301004: Pedra Grande_01_01
+    3301006: Pedra Grande_01_02
+    3301008: Pilar_00
+    3301010: Pilar_01
+    3301012: Pilar_02
+    3301014: Pilar_03
+    3301016: Placa_00
+    3301018: Placa_01
+    3301020: Porta_00_00
+    3301022: Porta_00_01
+    3301024: Porta_00_02
+    3301026: Porta_00_03
+    3301028: Porta_00_04
+    3301030: Porta_00_05
+    3301032: Porta_00_06
+    3301034: Porta_01_00
+    3301036: Porta_01_01
+    3301038: Porta_01_02
+    3301040: Porta_01_03
+    3301042: Porta_01_04
+    3301044: Porta_01_05
+    3301046: Porta_01_06
+    3301048: Porta_01_07
+    3301050: Porta_01_08
+    3301052: Porta_02_00
+    3301054: Porta_02_01
+    3301056: Porta_02_02
+    3301058: Porta_02_03
+    3301060: Porta_02_04
+    3301062: Porta_02_05
+    3301064: Porta_03_00
+    3301066: Porta_03_01
+    3301068: Porta_03_02
+    3301070: Porta_03_03
+    3301072: Porta_03_04
+    3301074: Porta_03_05
+    3301076: Porta_03_06
+    3301078: Porta_04_00
+    3301080: Porta_04_01
+    3301082: Porta_05_00
+    3301084: Porta_05_01
+    3301086: Porta_05_02
+    3301088: Porta_05_03
+    3301090: Porta_05_04
+    3301092: PostoCob_00
+    3301094: PostoCon_00
+    3301096: "Po\xE7o_00"
+    3301098: Predio_00
+    3301100: Predio_01
+    3301102: Predio_02
+    3301104: Predio_03
+    3301106: Produtos Quimicos_00
+    3301108: Produtos Quimicos_01
+    3301110: Produtos Quimicos_02
+    3301112: Produtos Quimicos_03
+    3301114: Rua
+    3301116: Telhado_00_00
+    3301118: Telhado_01_00
+    3301120: Telhado_01_00.001
+    3301122: Telhado_01_01
+    3301124: Telhado_01_02
+    3301126: Telhado_02_00
+    3301128: Terreno Moldura_MeshPart0
+    3301130: Terreno Moldura_MeshPart1
+    3301132: Terreno_MeshPart0
+    3301134: Terreno_MeshPart1
+    3301136: Tunel_00
+    4300000: Terreno Moldura_MeshPart0
+    4300002: Terreno Moldura_MeshPart1
+    4300004: Cylinder
+    4300006: Mala_04
+    4300008: Mala_03
+    4300010: Mala_02
+    4300012: Mesa_06
+    4300014: Mesa_05
+    4300016: Mesa_04
+    4300018: Arvore de Pinheiro_00_130
+    4300020: Arvore de Pinheiro_00_129
+    4300022: Arvore de Pinheiro_00_128
+    4300024: Arvore de Pinheiro_00_127
+    4300026: Arvore de Pinheiro_00_126
+    4300028: Arvore de Pinheiro_00_125
+    4300030: Arvore de Pinheiro_00_124
+    4300032: Arvore de Carvalho_00_38
+    4300034: Arvore de Carvalho_00_37
+    4300036: Arvore de Carvalho_00_36
+    4300038: Becker_15
+    4300040: Becker_14
+    4300042: Becker_12
+    4300044: Produtos Quimicos_00
+    4300046: Produtos Quimicos_01
+    4300048: Becker_03
+    4300050: Becker_05
+    4300052: Becker_11
+    4300054: Becker_10
+    4300056: Becker_13
+    4300058: Becker_09
+    4300060: Becker_04
+    4300062: Produtos Quimicos_02
+    4300064: Becker_06
+    4300066: Becker_08
+    4300068: Becker_07
+    4300070: Becker_02
+    4300072: Becker_00
+    4300074: Mala_00
+    4300076: Mala_01
+    4300078: Becker_01
+    4300080: Produtos Quimicos_03
+    4300082: Mesa_03
+    4300084: Arvore de Pinheiro_00_121
+    4300086: Arvore de Pinheiro_00_120
+    4300088: Arvore de Pinheiro_00_119
+    4300090: Arvore de Pinheiro_00_123
+    4300092: Arvore de Pinheiro_00_122
+    4300094: Arvore de Carvalho_00_35
+    4300096: Arvore de Carvalho_00_34
+    4300098: Porta_05_04
+    4300100: CasaV_05
+    4300102: Telhado_01_00.001
+    4300104: Pilar_03
+    4300106: Pilar_02
+    4300108: Pilar_01
+    4300110: Pilar_00
+    4300112: Casa Abandonada_01
+    4300114: Casa Abandonada_00
+    4300116: Pedra Grande_00_07
+    4300118: Tunel_00
+    4300120: Pedra Grande_00_06
+    4300122: Pedra Grande_00_05
+    4300124: Pedra Grande_00_04
+    4300126: Pedra Grande_00_03
+    4300128: Fogueira_00
+    4300130: Placa_01
+    4300132: Placa_00
+    4300134: ArvoreAzul_00_03
+    4300136: ArvoreAzul_00_05
+    4300138: ArvoreAzul_00_04
+    4300140: ArvoreAzul_00_06
+    4300142: ArvoreAzul_00_02
+    4300144: ArvoreAzul_00_01
+    4300146: ArvoreAzul_00_00
+    4300148: Arvore de Pinheiro_01_125
+    4300150: Arvore de Pinheiro_01_124
+    4300152: Arvore de Pinheiro_01_123
+    4300154: Arvore de Pinheiro_01_122
+    4300156: Arvore de Pinheiro_01_121
+    4300158: Arvore de Pinheiro_01_120
+    4300160: Arvore de Pinheiro_01_119
+    4300162: Arvore de Pinheiro_01_113
+    4300164: Arvore de Pinheiro_01_112
+    4300166: Arvore de Pinheiro_01_111
+    4300168: Arvore de Pinheiro_01_110
+    4300170: Arvore de Pinheiro_01_109
+    4300172: Arvore de Pinheiro_01_108
+    4300174: Arvore de Pinheiro_01_107
+    4300176: Arvore de Pinheiro_01_106
+    4300178: Arvore de Pinheiro_01_105
+    4300180: Arvore de Pinheiro_01_104
+    4300182: Arvore de Pinheiro_01_103
+    4300184: Arvore de Pinheiro_01_102
+    4300186: Arvore de Pinheiro_01_101
+    4300188: Arvore de Pinheiro_01_100
+    4300190: Arvore de Pinheiro_01_99
+    4300192: Arvore de Pinheiro_01_98
+    4300194: Arvore de Pinheiro_01_97
+    4300196: Arvore de Pinheiro_01_126
+    4300198: Arvore de Pinheiro_01_127
+    4300200: Arvore de Pinheiro_01_118
+    4300202: Arvore de Pinheiro_01_117
+    4300204: Arvore de Pinheiro_01_116
+    4300206: Arvore de Pinheiro_01_114
+    4300208: Arvore de Pinheiro_01_115
+    4300210: Arvore de Pinheiro_01_94
+    4300212: Arvore de Pinheiro_01_93
+    4300214: Arvore de Pinheiro_01_92
+    4300216: Arvore de Pinheiro_01_91
+    4300218: Arvore de Pinheiro_01_90
+    4300220: Arvore de Pinheiro_01_72
+    4300222: Arvore de Pinheiro_01_71
+    4300224: Arvore de Pinheiro_01_70
+    4300226: Arvore de Pinheiro_01_69
+    4300228: Arvore de Pinheiro_01_68
+    4300230: Arvore de Pinheiro_01_40
+    4300232: Arvore de Pinheiro_01_89
+    4300234: Arvore de Pinheiro_01_67
+    4300236: Arvore de Pinheiro_01_25
+    4300238: Arvore de Pinheiro_01_49
+    4300240: Arvore de Pinheiro_01_95
+    4300242: Arvore de Pinheiro_01_80
+    4300244: Arvore de Pinheiro_01_58
+    4300246: Arvore de Pinheiro_01_21
+    4300248: Arvore de Pinheiro_01_57
+    4300250: Arvore de Pinheiro_01_79
+    4300252: Arvore de Pinheiro_01_32
+    4300254: Arvore de Pinheiro_01_48
+    4300256: Arvore de Pinheiro_01_14
+    4300258: Arvore de Pinheiro_01_66
+    4300260: Arvore de Pinheiro_01_88
+    4300262: Arvore de Pinheiro_01_39
+    4300264: Arvore de Pinheiro_01_38
+    4300266: Arvore de Pinheiro_01_87
+    4300268: Arvore de Pinheiro_01_65
+    4300270: Arvore de Pinheiro_01_13
+    4300272: Arvore de Pinheiro_01_47
+    4300274: Arvore de Pinheiro_01_31
+    4300276: Arvore de Pinheiro_01_78
+    4300278: Arvore de Pinheiro_01_56
+    4300280: Arvore de Pinheiro_01_20
+    4300282: Arvore de Pinheiro_01_55
+    4300284: Arvore de Pinheiro_01_77
+    4300286: Arvore de Pinheiro_01_30
+    4300288: Arvore de Pinheiro_01_46
+    4300290: Arvore de Pinheiro_01_64
+    4300292: Arvore de Pinheiro_01_86
+    4300294: Arvore de Pinheiro_01_96
+    4300296: Arvore de Pinheiro_01_37
+    4300298: Arvore de Pinheiro_01_85
+    4300300: Arvore de Pinheiro_01_63
+    4300302: Arvore de Pinheiro_01_12
+    4300304: Arvore de Pinheiro_01_45
+    4300306: Arvore de Pinheiro_01_29
+    4300308: Arvore de Pinheiro_01_76
+    4300310: Arvore de Pinheiro_01_54
+    4300312: Arvore de Pinheiro_01_19
+    4300314: Arvore de Pinheiro_01_18
+    4300316: Arvore de Pinheiro_01_53
+    4300318: Arvore de Pinheiro_01_75
+    4300320: Arvore de Pinheiro_01_28
+    4300322: Arvore de Pinheiro_01_44
+    4300324: Arvore de Pinheiro_01_11
+    4300326: Arvore de Pinheiro_01_62
+    4300328: Arvore de Pinheiro_01_84
+    4300330: Arvore de Pinheiro_01_35
+    4300332: Arvore de Pinheiro_01_83
+    4300334: Arvore de Pinheiro_01_61
+    4300336: Arvore de Pinheiro_01_26
+    4300338: Arvore de Pinheiro_01_43
+    4300340: Arvore de Pinheiro_01_27
+    4300342: Arvore de Pinheiro_01_74
+    4300344: Arvore de Pinheiro_01_52
+    4300346: Arvore de Pinheiro_01_17
+    4300348: Arvore de Pinheiro_01_16
+    4300350: Arvore de Pinheiro_01_51
+    4300352: Arvore de Pinheiro_01_73
+    4300354: Arvore de Pinheiro_01_24
+    4300356: Arvore de Pinheiro_01_42
+    4300358: Arvore de Pinheiro_01_60
+    4300360: Arvore de Pinheiro_01_82
+    4300362: Arvore de Pinheiro_01_34
+    4300364: Arvore de Pinheiro_01_33
+    4300366: Arvore de Pinheiro_01_81
+    4300368: Arvore de Pinheiro_01_59
+    4300370: Arvore de Pinheiro_01_09
+    4300372: Arvore de Pinheiro_01_41
+    4300374: Arvore de Pinheiro_01_23
+    4300376: Arvore de Pinheiro_01_50
+    4300378: Arvore de Pinheiro_01_15
+    4300380: Mesa_01
+    4300382: Mesa_02
+    4300384: Box_07
+    4300386: Box_06
+    4300388: Box_08
+    4300390: Base_02
+    4300392: Bloqueio_00
+    4300394: Bloqueio_01
+    4300396: Med_00
+    4300398: MedBox_01
+    4300400: Med_01
+    4300402: MedBox_02
+    4300404: MedBox_00
+    4300406: Box_05
+    4300408: Box_01
+    4300410: Box_00
+    4300412: Box_02
+    4300414: Box_03
+    4300416: Box_04
+    4300418: Mesa_00
+    4300420: Base_01
+    4300422: Base_00
+    4300424: Barreira_00_02
+    4300426: Barreira_00_03
+    4300428: Barreira_00_01
+    4300430: Barreira_00_00
+    4300432: Arvore Seca_00_30
+    4300434: Arvore Seca_00_29
+    4300436: Arvore de Pinheiro_00_105
+    4300438: Arvore de Pinheiro_00_104
+    4300440: Arvore de Pinheiro_00_97
+    4300442: Arvore de Pinheiro_00_96
+    4300444: Arvore de Pinheiro_00_118
+    4300446: Arvore de Pinheiro_00_103
+    4300448: Arvore de Pinheiro_00_109
+    4300450: Arvore de Carvalho_00_33
+    4300452: Arvore de Pinheiro_00_113
+    4300454: Arvore de Pinheiro_00_117
+    4300456: Arvore de Pinheiro_00_116
+    4300458: Arvore de Pinheiro_00_112
+    4300460: Arvore de Carvalho_00_32
+    4300462: Arvore de Pinheiro_00_108
+    4300464: Arvore de Pinheiro_00_102
+    4300466: Arvore de Pinheiro_00_99
+    4300468: Arvore de Pinheiro_00_95
+    4300470: Arvore de Pinheiro_00_92
+    4300472: Arvore de Pinheiro_00_91
+    4300474: Arvore de Pinheiro_00_94
+    4300476: Arvore de Pinheiro_00_101
+    4300478: Arvore de Pinheiro_00_106
+    4300480: Arvore de Carvalho_00_31
+    4300482: Arvore de Pinheiro_00_111
+    4300484: Arvore de Pinheiro_00_115
+    4300486: Arvore de Pinheiro_00_114
+    4300488: Arvore de Pinheiro_00_110
+    4300490: Arvore de Carvalho_00_30
+    4300492: Arvore de Pinheiro_00_107
+    4300494: Arvore de Pinheiro_00_100
+    4300496: Arvore de Pinheiro_00_98
+    4300498: Arvore de Pinheiro_00_93
+    4300500: Arvore de Pinheiro_00_90
+    4300502: Arvore Seca_00_31
+    4300504: Arvore Seca_00_46
+    4300506: Arvore Seca_00_45
+    4300508: Arvore Seca_00_44
+    4300510: Arvore Seca_00_51
+    4300512: Arvore Seca_00_43
+    4300514: Arvore Seca_00_36
+    4300516: Arvore Seca_00_39
+    4300518: Arvore Seca_00_42
+    4300520: Arvore Seca_00_50
+    4300522: Arvore Seca_00_55
+    4300524: Arvore Seca_00_60
+    4300526: Arvore Seca_00_59
+    4300528: Arvore Seca_00_49
+    4300530: Arvore Seca_00_38
+    4300532: Arvore Seca_00_35
+    4300534: Arvore Seca_00_34
+    4300536: Arvore Seca_00_37
+    4300538: Arvore Seca_00_41
+    4300540: Arvore Seca_00_48
+    4300542: Arvore Seca_00_54
+    4300544: Arvore Seca_00_58
+    4300546: Arvore Seca_00_57
+    4300548: Arvore Seca_00_53
+    4300550: Arvore Seca_00_47
+    4300552: Arvore Seca_00_33
+    4300554: Arvore Seca_00_32
+    4300556: Arvore Seca_00_40
+    4300558: Arvore Seca_00_52
+    4300560: Arvore Seca_00_56
+    4300562: Arvore Seca_00_28
+    4300564: Arvore Seca_00_27
+    4300566: Arvore Seca_00_26
+    4300568: Arvore Seca_00_25
+    4300570: Arvore Seca_00_24
+    4300572: Arvore Seca_00_23
+    4300574: Arvore Seca_00_22
+    4300576: Arvore Seca_00_20
+    4300578: Arvore Seca_00_19
+    4300580: Arvore Seca_00_17
+    4300582: Arvore Seca_00_16
+    4300584: Arvore Seca_00_15
+    4300586: Arvore Seca_00_14
+    4300588: Arvore Seca_00_13
+    4300590: Arvore Seca_00_12
+    4300592: Arvore Seca_00_11
+    4300594: Arvore Seca_00_10
+    4300596: Arvore Seca_00_09
+    4300598: Arvore Seca_00_08
+    4300600: Arvore Seca_00_07
+    4300602: Arvore Velha_00_00
+    4300604: Arvore Velha_00_03
+    4300606: Arvore Velha_00_02
+    4300608: Arvore Velha_00_01
+    4300610: Arvore Velha_00_04
+    4300612: Arvore Seca_00_06
+    4300614: Arvore Seca_00_05
+    4300616: Arvore Seca_00_04
+    4300618: Arvore Seca_00_03
+    4300620: Arvore Seca_00_01
+    4300622: Arvore Seca_00_00
+    4300624: Arvore de Carvalho_00_28
+    4300626: Arvore de Carvalho_00_24
+    4300628: Arvore de Carvalho_00_27
+    4300630: Arvore de Pinheiro_00_89
+    4300632: Arvore de Pinheiro_00_86
+    4300634: Arvore de Pinheiro_00_80
+    4300636: Arvore de Pinheiro_00_83
+    4300638: Arvore de Pinheiro_00_82
+    4300640: Arvore de Pinheiro_00_79
+    4300642: Arvore de Pinheiro_00_85
+    4300644: Arvore de Pinheiro_00_88
+    4300646: Arvore de Carvalho_00_26
+    4300648: Arvore de Carvalho_00_29
+    4300650: Arvore de Carvalho_00_25
+    4300652: Arvore de Pinheiro_00_87
+    4300654: Arvore de Pinheiro_00_84
+    4300656: Arvore de Pinheiro_00_78
+    4300658: Arvore de Pinheiro_00_81
+    4300660: Arvore de Pinheiro_01_01
+    4300662: Arvore de Pinheiro_01_05
+    4300664: Arvore de Pinheiro_01_02
+    4300666: Arvore de Pinheiro_01_04
+    4300668: Arvore de Pinheiro_01_00
+    4300670: Arvore de Pinheiro_01_06
+    4300672: Arvore de Pinheiro_01_03
+    4300674: Porta_01_08
+    4300676: Porta_01_07
+    4300678: Porta_01_06
+    4300680: Janela_00_05
+    4300682: Janela_00_04
+    4300684: Casa_14
+    4300686: Porta_05_00
+    4300688: Porta_05_03
+    4300690: CasaV_04
+    4300692: Telhado_01_02
+    4300694: Telhado_00_00
+    4300696: CasaV_03
+    4300698: Telhado_01_00
+    4300700: Porta_05_02
+    4300702: CasaV_02
+    4300704: Telhado_01_01
+    4300706: CasaV_01
+    4300708: "Po\xE7o_00"
+    4300710: Porta_05_01
+    4300712: Telhado_02_00
+    4300714: CasaV_00
+    4300716: Arvore de Pinheiro_00_39
+    4300718: Arvore de Pinheiro_00_38
+    4300720: Arvore de Pinheiro_00_37
+    4300722: Arvore de Pinheiro_00_36
+    4300724: Arvore de Pinheiro_00_35
+    4300726: Arvore de Pinheiro_00_34
+    4300728: Arvore de Pinheiro_00_45
+    4300730: Arvore de Pinheiro_00_33
+    4300732: Arvore de Pinheiro_00_32
+    4300734: Arvore de Pinheiro_00_31
+    4300736: Arvore de Pinheiro_00_30
+    4300738: Arvore de Pinheiro_00_29
+    4300740: Arvore de Pinheiro_00_28
+    4300742: Arvore de Pinheiro_00_27
+    4300744: Arvore de Pinheiro_00_26
+    4300746: Arvore de Pinheiro_00_25
+    4300748: Arvore de Pinheiro_00_19
+    4300750: Arvore de Pinheiro_00_24
+    4300752: Arvore de Pinheiro_00_44
+    4300754: Arvore de Pinheiro_00_49
+    4300756: Arvore de Pinheiro_00_53
+    4300758: Arvore de Pinheiro_00_56
+    4300760: Arvore de Pinheiro_00_59
+    4300762: Arvore de Carvalho_00_16
+    4300764: Arvore de Carvalho_00_23
+    4300766: Arvore de Carvalho_00_19
+    4300768: Arvore de Carvalho_00_15
+    4300770: Arvore de Carvalho_00_12
+    4300772: Arvore de Pinheiro_00_52
+    4300774: Arvore de Pinheiro_00_48
+    4300776: Arvore de Pinheiro_00_43
+    4300778: Arvore de Pinheiro_00_23
+    4300780: Arvore de Pinheiro_00_22
+    4300782: Arvore de Pinheiro_00_42
+    4300784: Arvore de Pinheiro_00_54
+    4300786: Arvore de Carvalho_00_11
+    4300788: Arvore de Carvalho_00_10
+    4300790: Arvore de Pinheiro_00_73
+    4300792: Arvore de Pinheiro_00_77
+    4300794: Arvore de Pinheiro_00_75
+    4300796: Arvore de Carvalho_00_22
+    4300798: Arvore de Carvalho_00_18
+    4300800: Arvore de Carvalho_00_14
+    4300802: Arvore de Carvalho_00_09
+    4300804: Arvore de Carvalho_00_06
+    4300806: Arvore de Pinheiro_00_68
+    4300808: Arvore de Pinheiro_00_70
+    4300810: Arvore de Pinheiro_00_64
+    4300812: Arvore de Pinheiro_00_63
+    4300814: Arvore de Pinheiro_00_61
+    4300816: Arvore de Pinheiro_00_58
+    4300818: Arvore de Pinheiro_00_55
+    4300820: Arvore de Pinheiro_00_51
+    4300822: Arvore de Pinheiro_00_47
+    4300824: Arvore de Pinheiro_00_41
+    4300826: Arvore de Pinheiro_00_21
+    4300828: Arvore de Pinheiro_00_18
+    4300830: Arvore de Pinheiro_00_20
+    4300832: Arvore de Pinheiro_00_40
+    4300834: Arvore de Pinheiro_00_57
+    4300836: Arvore de Pinheiro_00_60
+    4300838: Arvore de Pinheiro_00_62
+    4300840: Arvore de Pinheiro_00_65
+    4300842: Arvore de Pinheiro_00_66
+    4300844: Arvore de Pinheiro_00_69
+    4300846: Arvore de Pinheiro_00_71
+    4300848: Arvore de Pinheiro_00_67
+    4300850: Arvore de Carvalho_00_05
+    4300852: Arvore de Carvalho_00_08
+    4300854: Arvore de Carvalho_00_13
+    4300856: Arvore de Carvalho_00_17
+    4300858: Arvore de Carvalho_00_21
+    4300860: Arvore de Pinheiro_00_74
+    4300862: Arvore de Pinheiro_00_76
+    4300864: Arvore de Pinheiro_00_72
+    4300866: Arvore de Pinheiro_00_15
+    4300868: Arvore de Pinheiro_00_17
+    4300870: Arvore de Pinheiro_00_16
+    4300872: Arvore de Carvalho_00_04
+    4300874: Arvore de Carvalho_00_03
+    4300876: Arvore de Carvalho_00_02
+    4300878: Arvore de Carvalho_00_01
+    4300880: Arvore de Carvalho_00_00
+    4300882: Arvore de Pinheiro_00_12
+    4300884: Arvore de Pinheiro_00_14
+    4300886: Arvore de Pinheiro_00_13
+    4300888: Arvore de Pinheiro_00_11
+    4300890: Arvore de Pinheiro_00_09
+    4300892: Arvore de Pinheiro_00_08
+    4300894: Arvore de Pinheiro_00_07
+    4300896: Arvore de Pinheiro_00_06
+    4300898: Arvore de Pinheiro_00_05
+    4300900: Arvore de Pinheiro_00_04
+    4300902: Arvore de Pinheiro_00_03
+    4300904: Arvore de Pinheiro_00_02
+    4300906: Arvore de Pinheiro_00_01
+    4300908: Pedra Grande_01_02
+    4300910: Pedra Grande_01_01
+    4300912: Pedra Grande_00_02
+    4300914: Pedra Grande_00_01
+    4300916: Arvore de Pinheiro_00_00
+    4300918: Pedra Grande_00_00
+    4300920: Pedra Grande_01_00
+    4300922: BombaGasolina_00
+    4300924: BombaGasolina_01
+    4300926: BombaGasolina_02
+    4300928: BombaGasolina_03
+    4300930: Casa_00
+    4300932: Casa_01
+    4300934: Casa_02
+    4300936: Casa_03
+    4300938: Casa_04
+    4300940: Casa_05
+    4300942: Casa_06
+    4300944: Casa_07
+    4300946: Casa_08
+    4300948: Casa_09
+    4300950: Casa_10
+    4300952: Casa_11
+    4300954: Casa_12
+    4300956: Casa_13
+    4300958: Janela_00_00
+    4300960: Janela_00_01
+    4300962: Janela_00_02
+    4300964: Janela_00_03
+    4300966: Janela_01_00
+    4300968: Janela_01_01
+    4300970: Janela_01_02
+    4300972: Janela_01_03
+    4300974: Janela_01_04
+    4300976: Janela_01_05
+    4300978: Janela_01_06
+    4300980: Janela_01_07
+    4300982: Janela_02_00
+    4300984: Janela_02_01
+    4300986: Janela_02_02
+    4300988: Janela_02_03
+    4300990: Janela_03_00
+    4300992: Janela_03_01
+    4300994: Janela_03_02
+    4300996: Janela_03_03
+    4300998: Janela_03_04
+    4301000: Janela_03_05
+    4301002: Janela_04_01
+    4301004: Janela_04_02
+    4301006: Janela_04_03
+    4301008: Janela_04_04
+    4301010: Janela_04_05
+    4301012: Janela_04_06
+    4301014: Janela_04_07
+    4301016: Janela_04_08
+    4301018: Janela_04_09
+    4301020: Janela_04_10
+    4301022: Janela_04_11
+    4301024: Janela_04_12
+    4301026: Janela_04_13
+    4301028: Janela_04_14
+    4301030: Janela_04_15
+    4301032: Janela_04_16
+    4301034: Janela_04_17
+    4301036: Janela_04_18
+    4301038: Janela_04_19
+    4301040: Janela_04_20
+    4301042: Janela_04_21
+    4301044: Janela_04_22
+    4301046: Janela_04_23
+    4301048: Janela_04_24
+    4301050: Janela_05_00
+    4301052: Janela_05_01
+    4301054: Janela_05_02
+    4301056: Janela_05_03
+    4301058: Porta_00_00
+    4301060: Porta_00_01
+    4301062: Porta_00_02
+    4301064: Porta_00_03
+    4301066: Porta_00_04
+    4301068: Porta_00_05
+    4301070: Porta_00_06
+    4301072: Porta_01_00
+    4301074: Porta_01_01
+    4301076: Porta_01_02
+    4301078: Porta_01_03
+    4301080: Porta_01_04
+    4301082: Porta_01_05
+    4301084: Porta_02_00
+    4301086: Porta_02_01
+    4301088: Porta_02_02
+    4301090: Porta_02_03
+    4301092: Porta_02_04
+    4301094: Porta_02_05
+    4301096: Porta_03_00
+    4301098: Porta_03_01
+    4301100: Porta_03_02
+    4301102: Porta_03_03
+    4301104: Porta_03_04
+    4301106: Porta_03_05
+    4301108: Porta_03_06
+    4301110: Porta_04_00
+    4301112: Porta_04_01
+    4301114: PostoCob_00
+    4301116: PostoCon_00
+    4301118: Predio_00
+    4301120: Predio_01
+    4301122: Predio_02
+    4301124: Predio_03
+    4301126: Rua
+    4301128: Terreno_MeshPart0
+    4301130: Terreno_MeshPart1
+    4301132: Arvore Seca_00_18
+    4301134: Arvore Seca_00_21
+    4301136: Base_03
+    6400000: Arvore de Carvalho_00_00
+    6400002: Arvore de Carvalho_00_01
+    6400004: Arvore de Carvalho_00_02
+    6400006: Arvore de Carvalho_00_03
+    6400008: Arvore de Carvalho_00_04
+    6400010: Arvore de Carvalho_00_05
+    6400012: Arvore de Carvalho_00_06
+    6400014: Arvore de Carvalho_00_08
+    6400016: Arvore de Carvalho_00_09
+    6400018: Arvore de Carvalho_00_10
+    6400020: Arvore de Carvalho_00_11
+    6400022: Arvore de Carvalho_00_12
+    6400024: Arvore de Carvalho_00_13
+    6400026: Arvore de Carvalho_00_14
+    6400028: Arvore de Carvalho_00_15
+    6400030: Arvore de Carvalho_00_16
+    6400032: Arvore de Carvalho_00_17
+    6400034: Arvore de Carvalho_00_18
+    6400036: Arvore de Carvalho_00_19
+    6400038: Arvore de Carvalho_00_21
+    6400040: Arvore de Carvalho_00_22
+    6400042: Arvore de Carvalho_00_23
+    6400044: Arvore de Carvalho_00_24
+    6400046: Arvore de Carvalho_00_25
+    6400048: Arvore de Carvalho_00_26
+    6400050: Arvore de Carvalho_00_27
+    6400052: Arvore de Carvalho_00_28
+    6400054: Arvore de Carvalho_00_29
+    6400056: Arvore de Carvalho_00_30
+    6400058: Arvore de Carvalho_00_31
+    6400060: Arvore de Carvalho_00_32
+    6400062: Arvore de Carvalho_00_33
+    6400064: Arvore de Carvalho_00_34
+    6400066: Arvore de Carvalho_00_35
+    6400068: Arvore de Carvalho_00_36
+    6400070: Arvore de Carvalho_00_37
+    6400072: Arvore de Carvalho_00_38
+    6400074: Arvore de Pinheiro_00_00
+    6400076: Arvore de Pinheiro_00_01
+    6400078: Arvore de Pinheiro_00_02
+    6400080: Arvore de Pinheiro_00_03
+    6400082: Arvore de Pinheiro_00_04
+    6400084: Arvore de Pinheiro_00_05
+    6400086: Arvore de Pinheiro_00_06
+    6400088: Arvore de Pinheiro_00_07
+    6400090: Arvore de Pinheiro_00_08
+    6400092: Arvore de Pinheiro_00_09
+    6400094: Arvore de Pinheiro_00_100
+    6400096: Arvore de Pinheiro_00_101
+    6400098: Arvore de Pinheiro_00_102
+    6400100: Arvore de Pinheiro_00_103
+    6400102: Arvore de Pinheiro_00_104
+    6400104: Arvore de Pinheiro_00_105
+    6400106: Arvore de Pinheiro_00_106
+    6400108: Arvore de Pinheiro_00_107
+    6400110: Arvore de Pinheiro_00_108
+    6400112: Arvore de Pinheiro_00_109
+    6400114: Arvore de Pinheiro_00_11
+    6400116: Arvore de Pinheiro_00_110
+    6400118: Arvore de Pinheiro_00_111
+    6400120: Arvore de Pinheiro_00_112
+    6400122: Arvore de Pinheiro_00_113
+    6400124: Arvore de Pinheiro_00_114
+    6400126: Arvore de Pinheiro_00_115
+    6400128: Arvore de Pinheiro_00_116
+    6400130: Arvore de Pinheiro_00_117
+    6400132: Arvore de Pinheiro_00_118
+    6400134: Arvore de Pinheiro_00_119
+    6400136: Arvore de Pinheiro_00_12
+    6400138: Arvore de Pinheiro_00_120
+    6400140: Arvore de Pinheiro_00_121
+    6400142: Arvore de Pinheiro_00_122
+    6400144: Arvore de Pinheiro_00_123
+    6400146: Arvore de Pinheiro_00_124
+    6400148: Arvore de Pinheiro_00_125
+    6400150: Arvore de Pinheiro_00_126
+    6400152: Arvore de Pinheiro_00_127
+    6400154: Arvore de Pinheiro_00_128
+    6400156: Arvore de Pinheiro_00_129
+    6400158: Arvore de Pinheiro_00_13
+    6400160: Arvore de Pinheiro_00_130
+    6400162: Arvore de Pinheiro_00_14
+    6400164: Arvore de Pinheiro_00_15
+    6400166: Arvore de Pinheiro_00_16
+    6400168: Arvore de Pinheiro_00_17
+    6400170: Arvore de Pinheiro_00_18
+    6400172: Arvore de Pinheiro_00_19
+    6400174: Arvore de Pinheiro_00_20
+    6400176: Arvore de Pinheiro_00_21
+    6400178: Arvore de Pinheiro_00_22
+    6400180: Arvore de Pinheiro_00_23
+    6400182: Arvore de Pinheiro_00_24
+    6400184: Arvore de Pinheiro_00_25
+    6400186: Arvore de Pinheiro_00_26
+    6400188: Arvore de Pinheiro_00_27
+    6400190: Arvore de Pinheiro_00_28
+    6400192: Arvore de Pinheiro_00_29
+    6400194: Arvore de Pinheiro_00_30
+    6400196: Arvore de Pinheiro_00_31
+    6400198: Arvore de Pinheiro_00_32
+    6400200: Arvore de Pinheiro_00_33
+    6400202: Arvore de Pinheiro_00_34
+    6400204: Arvore de Pinheiro_00_35
+    6400206: Arvore de Pinheiro_00_36
+    6400208: Arvore de Pinheiro_00_37
+    6400210: Arvore de Pinheiro_00_38
+    6400212: Arvore de Pinheiro_00_39
+    6400214: Arvore de Pinheiro_00_40
+    6400216: Arvore de Pinheiro_00_41
+    6400218: Arvore de Pinheiro_00_42
+    6400220: Arvore de Pinheiro_00_43
+    6400222: Arvore de Pinheiro_00_44
+    6400224: Arvore de Pinheiro_00_45
+    6400226: Arvore de Pinheiro_00_47
+    6400228: Arvore de Pinheiro_00_48
+    6400230: Arvore de Pinheiro_00_49
+    6400232: Arvore de Pinheiro_00_51
+    6400234: Arvore de Pinheiro_00_52
+    6400236: Arvore de Pinheiro_00_53
+    6400238: Arvore de Pinheiro_00_54
+    6400240: Arvore de Pinheiro_00_55
+    6400242: Arvore de Pinheiro_00_56
+    6400244: Arvore de Pinheiro_00_57
+    6400246: Arvore de Pinheiro_00_58
+    6400248: Arvore de Pinheiro_00_59
+    6400250: Arvore de Pinheiro_00_60
+    6400252: Arvore de Pinheiro_00_61
+    6400254: Arvore de Pinheiro_00_62
+    6400256: Arvore de Pinheiro_00_63
+    6400258: Arvore de Pinheiro_00_64
+    6400260: Arvore de Pinheiro_00_65
+    6400262: Arvore de Pinheiro_00_66
+    6400264: Arvore de Pinheiro_00_67
+    6400266: Arvore de Pinheiro_00_68
+    6400268: Arvore de Pinheiro_00_69
+    6400270: Arvore de Pinheiro_00_70
+    6400272: Arvore de Pinheiro_00_71
+    6400274: Arvore de Pinheiro_00_72
+    6400276: Arvore de Pinheiro_00_73
+    6400278: Arvore de Pinheiro_00_74
+    6400280: Arvore de Pinheiro_00_75
+    6400282: Arvore de Pinheiro_00_76
+    6400284: Arvore de Pinheiro_00_77
+    6400286: Arvore de Pinheiro_00_78
+    6400288: Arvore de Pinheiro_00_79
+    6400290: Arvore de Pinheiro_00_80
+    6400292: Arvore de Pinheiro_00_81
+    6400294: Arvore de Pinheiro_00_82
+    6400296: Arvore de Pinheiro_00_83
+    6400298: Arvore de Pinheiro_00_84
+    6400300: Arvore de Pinheiro_00_85
+    6400302: Arvore de Pinheiro_00_86
+    6400304: Arvore de Pinheiro_00_87
+    6400306: Arvore de Pinheiro_00_88
+    6400308: Arvore de Pinheiro_00_89
+    6400310: Arvore de Pinheiro_00_90
+    6400312: Arvore de Pinheiro_00_91
+    6400314: Arvore de Pinheiro_00_92
+    6400316: Arvore de Pinheiro_00_93
+    6400318: Arvore de Pinheiro_00_94
+    6400320: Arvore de Pinheiro_00_95
+    6400322: Arvore de Pinheiro_00_96
+    6400324: Arvore de Pinheiro_00_97
+    6400326: Arvore de Pinheiro_00_98
+    6400328: Arvore de Pinheiro_00_99
+    6400330: Arvore de Pinheiro_01_00
+    6400332: Arvore de Pinheiro_01_01
+    6400334: Arvore de Pinheiro_01_02
+    6400336: Arvore de Pinheiro_01_03
+    6400338: Arvore de Pinheiro_01_04
+    6400340: Arvore de Pinheiro_01_05
+    6400342: Arvore de Pinheiro_01_06
+    6400344: Arvore de Pinheiro_01_09
+    6400346: Arvore de Pinheiro_01_100
+    6400348: Arvore de Pinheiro_01_101
+    6400350: Arvore de Pinheiro_01_102
+    6400352: Arvore de Pinheiro_01_103
+    6400354: Arvore de Pinheiro_01_104
+    6400356: Arvore de Pinheiro_01_105
+    6400358: Arvore de Pinheiro_01_106
+    6400360: Arvore de Pinheiro_01_107
+    6400362: Arvore de Pinheiro_01_108
+    6400364: Arvore de Pinheiro_01_109
+    6400366: Arvore de Pinheiro_01_11
+    6400368: Arvore de Pinheiro_01_110
+    6400370: Arvore de Pinheiro_01_111
+    6400372: Arvore de Pinheiro_01_112
+    6400374: Arvore de Pinheiro_01_113
+    6400376: Arvore de Pinheiro_01_114
+    6400378: Arvore de Pinheiro_01_115
+    6400380: Arvore de Pinheiro_01_116
+    6400382: Arvore de Pinheiro_01_117
+    6400384: Arvore de Pinheiro_01_118
+    6400386: Arvore de Pinheiro_01_119
+    6400388: Arvore de Pinheiro_01_12
+    6400390: Arvore de Pinheiro_01_120
+    6400392: Arvore de Pinheiro_01_121
+    6400394: Arvore de Pinheiro_01_122
+    6400396: Arvore de Pinheiro_01_123
+    6400398: Arvore de Pinheiro_01_124
+    6400400: Arvore de Pinheiro_01_125
+    6400402: Arvore de Pinheiro_01_126
+    6400404: Arvore de Pinheiro_01_127
+    6400406: Arvore de Pinheiro_01_13
+    6400408: Arvore de Pinheiro_01_14
+    6400410: Arvore de Pinheiro_01_15
+    6400412: Arvore de Pinheiro_01_16
+    6400414: Arvore de Pinheiro_01_17
+    6400416: Arvore de Pinheiro_01_18
+    6400418: Arvore de Pinheiro_01_19
+    6400420: Arvore de Pinheiro_01_20
+    6400422: Arvore de Pinheiro_01_21
+    6400424: Arvore de Pinheiro_01_23
+    6400426: Arvore de Pinheiro_01_24
+    6400428: Arvore de Pinheiro_01_25
+    6400430: Arvore de Pinheiro_01_26
+    6400432: Arvore de Pinheiro_01_27
+    6400434: Arvore de Pinheiro_01_28
+    6400436: Arvore de Pinheiro_01_29
+    6400438: Arvore de Pinheiro_01_30
+    6400440: Arvore de Pinheiro_01_31
+    6400442: Arvore de Pinheiro_01_32
+    6400444: Arvore de Pinheiro_01_33
+    6400446: Arvore de Pinheiro_01_34
+    6400448: Arvore de Pinheiro_01_35
+    6400450: Arvore de Pinheiro_01_37
+    6400452: Arvore de Pinheiro_01_38
+    6400454: Arvore de Pinheiro_01_39
+    6400456: Arvore de Pinheiro_01_40
+    6400458: Arvore de Pinheiro_01_41
+    6400460: Arvore de Pinheiro_01_42
+    6400462: Arvore de Pinheiro_01_43
+    6400464: Arvore de Pinheiro_01_44
+    6400466: Arvore de Pinheiro_01_45
+    6400468: Arvore de Pinheiro_01_46
+    6400470: Arvore de Pinheiro_01_47
+    6400472: Arvore de Pinheiro_01_48
+    6400474: Arvore de Pinheiro_01_49
+    6400476: Arvore de Pinheiro_01_50
+    6400478: Arvore de Pinheiro_01_51
+    6400480: Arvore de Pinheiro_01_52
+    6400482: Arvore de Pinheiro_01_53
+    6400484: Arvore de Pinheiro_01_54
+    6400486: Arvore de Pinheiro_01_55
+    6400488: Arvore de Pinheiro_01_56
+    6400490: Arvore de Pinheiro_01_57
+    6400492: Arvore de Pinheiro_01_58
+    6400494: Arvore de Pinheiro_01_59
+    6400496: Arvore de Pinheiro_01_60
+    6400498: Arvore de Pinheiro_01_61
+    6400500: Arvore de Pinheiro_01_62
+    6400502: Arvore de Pinheiro_01_63
+    6400504: Arvore de Pinheiro_01_64
+    6400506: Arvore de Pinheiro_01_65
+    6400508: Arvore de Pinheiro_01_66
+    6400510: Arvore de Pinheiro_01_67
+    6400512: Arvore de Pinheiro_01_68
+    6400514: Arvore de Pinheiro_01_69
+    6400516: Arvore de Pinheiro_01_70
+    6400518: Arvore de Pinheiro_01_71
+    6400520: Arvore de Pinheiro_01_72
+    6400522: Arvore de Pinheiro_01_73
+    6400524: Arvore de Pinheiro_01_74
+    6400526: Arvore de Pinheiro_01_75
+    6400528: Arvore de Pinheiro_01_76
+    6400530: Arvore de Pinheiro_01_77
+    6400532: Arvore de Pinheiro_01_78
+    6400534: Arvore de Pinheiro_01_79
+    6400536: Arvore de Pinheiro_01_80
+    6400538: Arvore de Pinheiro_01_81
+    6400540: Arvore de Pinheiro_01_82
+    6400542: Arvore de Pinheiro_01_83
+    6400544: Arvore de Pinheiro_01_84
+    6400546: Arvore de Pinheiro_01_85
+    6400548: Arvore de Pinheiro_01_86
+    6400550: Arvore de Pinheiro_01_87
+    6400552: Arvore de Pinheiro_01_88
+    6400554: Arvore de Pinheiro_01_89
+    6400556: Arvore de Pinheiro_01_90
+    6400558: Arvore de Pinheiro_01_91
+    6400560: Arvore de Pinheiro_01_92
+    6400562: Arvore de Pinheiro_01_93
+    6400564: Arvore de Pinheiro_01_94
+    6400566: Arvore de Pinheiro_01_95
+    6400568: Arvore de Pinheiro_01_96
+    6400570: Arvore de Pinheiro_01_97
+    6400572: Arvore de Pinheiro_01_98
+    6400574: Arvore de Pinheiro_01_99
+    6400576: Arvore Seca_00_00
+    6400578: Arvore Seca_00_01
+    6400580: Arvore Seca_00_03
+    6400582: Arvore Seca_00_04
+    6400584: Arvore Seca_00_05
+    6400586: Arvore Seca_00_06
+    6400588: Arvore Seca_00_07
+    6400590: Arvore Seca_00_08
+    6400592: Arvore Seca_00_09
+    6400594: Arvore Seca_00_10
+    6400596: Arvore Seca_00_11
+    6400598: Arvore Seca_00_12
+    6400600: Arvore Seca_00_13
+    6400602: Arvore Seca_00_14
+    6400604: Arvore Seca_00_15
+    6400606: Arvore Seca_00_16
+    6400608: Arvore Seca_00_17
+    6400610: Arvore Seca_00_18
+    6400612: Arvore Seca_00_19
+    6400614: Arvore Seca_00_20
+    6400616: Arvore Seca_00_21
+    6400618: Arvore Seca_00_22
+    6400620: Arvore Seca_00_23
+    6400622: Arvore Seca_00_24
+    6400624: Arvore Seca_00_25
+    6400626: Arvore Seca_00_26
+    6400628: Arvore Seca_00_27
+    6400630: Arvore Seca_00_28
+    6400632: Arvore Seca_00_29
+    6400634: Arvore Seca_00_30
+    6400636: Arvore Seca_00_31
+    6400638: Arvore Seca_00_32
+    6400640: Arvore Seca_00_33
+    6400642: Arvore Seca_00_34
+    6400644: Arvore Seca_00_35
+    6400646: Arvore Seca_00_36
+    6400648: Arvore Seca_00_37
+    6400650: Arvore Seca_00_38
+    6400652: Arvore Seca_00_39
+    6400654: Arvore Seca_00_40
+    6400656: Arvore Seca_00_41
+    6400658: Arvore Seca_00_42
+    6400660: Arvore Seca_00_43
+    6400662: Arvore Seca_00_44
+    6400664: Arvore Seca_00_45
+    6400666: Arvore Seca_00_46
+    6400668: Arvore Seca_00_47
+    6400670: Arvore Seca_00_48
+    6400672: Arvore Seca_00_49
+    6400674: Arvore Seca_00_50
+    6400676: Arvore Seca_00_51
+    6400678: Arvore Seca_00_52
+    6400680: Arvore Seca_00_53
+    6400682: Arvore Seca_00_54
+    6400684: Arvore Seca_00_55
+    6400686: Arvore Seca_00_56
+    6400688: Arvore Seca_00_57
+    6400690: Arvore Seca_00_58
+    6400692: Arvore Seca_00_59
+    6400694: Arvore Seca_00_60
+    6400696: Arvore Velha_00_00
+    6400698: Arvore Velha_00_01
+    6400700: Arvore Velha_00_02
+    6400702: Arvore Velha_00_03
+    6400704: Arvore Velha_00_04
+    6400706: ArvoreAzul_00_00
+    6400708: ArvoreAzul_00_01
+    6400710: ArvoreAzul_00_02
+    6400712: ArvoreAzul_00_03
+    6400714: ArvoreAzul_00_04
+    6400716: ArvoreAzul_00_05
+    6400718: ArvoreAzul_00_06
+    6400720: Barreira_00_00
+    6400722: Barreira_00_01
+    6400724: Barreira_00_02
+    6400726: Barreira_00_03
+    6400728: Base_00
+    6400730: Base_01
+    6400732: Base_02
+    6400734: Base_03
+    6400736: Becker_00
+    6400738: Becker_01
+    6400740: Becker_02
+    6400742: Becker_03
+    6400744: Becker_04
+    6400746: Becker_05
+    6400748: Becker_06
+    6400750: Becker_07
+    6400752: Becker_08
+    6400754: Becker_09
+    6400756: Becker_10
+    6400758: Becker_11
+    6400760: Becker_12
+    6400762: Becker_13
+    6400764: Becker_14
+    6400766: Becker_15
+    6400768: Bloqueio_00
+    6400770: Bloqueio_01
+    6400772: BombaGasolina_00
+    6400774: BombaGasolina_01
+    6400776: BombaGasolina_02
+    6400778: BombaGasolina_03
+    6400780: Box_00
+    6400782: Box_01
+    6400784: Box_02
+    6400786: Box_03
+    6400788: Box_04
+    6400790: Box_05
+    6400792: Box_06
+    6400794: Box_07
+    6400796: Box_08
+    6400798: Casa Abandonada_00
+    6400800: Casa Abandonada_01
+    6400802: Casa_00
+    6400804: Casa_01
+    6400806: Casa_02
+    6400808: Casa_03
+    6400810: Casa_04
+    6400812: Casa_05
+    6400814: Casa_06
+    6400816: Casa_07
+    6400818: Casa_08
+    6400820: Casa_09
+    6400822: Casa_10
+    6400824: Casa_11
+    6400826: Casa_12
+    6400828: Casa_13
+    6400830: Casa_14
+    6400832: CasaV_00
+    6400834: CasaV_01
+    6400836: CasaV_02
+    6400838: CasaV_03
+    6400840: CasaV_04
+    6400842: CasaV_05
+    6400844: Cylinder
+    6400846: Fogueira_00
+    6400848: Janela_00_00
+    6400850: Janela_00_01
+    6400852: Janela_00_02
+    6400854: Janela_00_03
+    6400856: Janela_00_04
+    6400858: Janela_00_05
+    6400860: Janela_01_00
+    6400862: Janela_01_01
+    6400864: Janela_01_02
+    6400866: Janela_01_03
+    6400868: Janela_01_04
+    6400870: Janela_01_05
+    6400872: Janela_01_06
+    6400874: Janela_01_07
+    6400876: Janela_02_00
+    6400878: Janela_02_01
+    6400880: Janela_02_02
+    6400882: Janela_02_03
+    6400884: Janela_03_00
+    6400886: Janela_03_01
+    6400888: Janela_03_02
+    6400890: Janela_03_03
+    6400892: Janela_03_04
+    6400894: Janela_03_05
+    6400896: Janela_04_01
+    6400898: Janela_04_02
+    6400900: Janela_04_03
+    6400902: Janela_04_04
+    6400904: Janela_04_05
+    6400906: Janela_04_06
+    6400908: Janela_04_07
+    6400910: Janela_04_08
+    6400912: Janela_04_09
+    6400914: Janela_04_10
+    6400916: Janela_04_11
+    6400918: Janela_04_12
+    6400920: Janela_04_13
+    6400922: Janela_04_14
+    6400924: Janela_04_15
+    6400926: Janela_04_16
+    6400928: Janela_04_17
+    6400930: Janela_04_18
+    6400932: Janela_04_19
+    6400934: Janela_04_20
+    6400936: Janela_04_21
+    6400938: Janela_04_22
+    6400940: Janela_04_23
+    6400942: Janela_04_24
+    6400944: Janela_05_00
+    6400946: Janela_05_01
+    6400948: Janela_05_02
+    6400950: Janela_05_03
+    6400952: Mala_00
+    6400954: Mala_01
+    6400956: Mala_02
+    6400958: Mala_03
+    6400960: Mala_04
+    6400962: Med_00
+    6400964: Med_01
+    6400966: MedBox_00
+    6400968: MedBox_01
+    6400970: MedBox_02
+    6400972: Mesa_00
+    6400974: Mesa_01
+    6400976: Mesa_02
+    6400978: Mesa_03
+    6400980: Mesa_04
+    6400982: Mesa_05
+    6400984: Mesa_06
+    6400986: Pedra Grande_00_00
+    6400988: Pedra Grande_00_01
+    6400990: Pedra Grande_00_02
+    6400992: Pedra Grande_00_03
+    6400994: Pedra Grande_00_04
+    6400996: Pedra Grande_00_05
+    6400998: Pedra Grande_00_06
+    6401000: Pedra Grande_00_07
+    6401002: Pedra Grande_01_00
+    6401004: Pedra Grande_01_01
+    6401006: Pedra Grande_01_02
+    6401008: Pilar_00
+    6401010: Pilar_01
+    6401012: Pilar_02
+    6401014: Pilar_03
+    6401016: Placa_00
+    6401018: Placa_01
+    6401020: Porta_00_00
+    6401022: Porta_00_01
+    6401024: Porta_00_02
+    6401026: Porta_00_03
+    6401028: Porta_00_04
+    6401030: Porta_00_05
+    6401032: Porta_00_06
+    6401034: Porta_01_00
+    6401036: Porta_01_01
+    6401038: Porta_01_02
+    6401040: Porta_01_03
+    6401042: Porta_01_04
+    6401044: Porta_01_05
+    6401046: Porta_01_06
+    6401048: Porta_01_07
+    6401050: Porta_01_08
+    6401052: Porta_02_00
+    6401054: Porta_02_01
+    6401056: Porta_02_02
+    6401058: Porta_02_03
+    6401060: Porta_02_04
+    6401062: Porta_02_05
+    6401064: Porta_03_00
+    6401066: Porta_03_01
+    6401068: Porta_03_02
+    6401070: Porta_03_03
+    6401072: Porta_03_04
+    6401074: Porta_03_05
+    6401076: Porta_03_06
+    6401078: Porta_04_00
+    6401080: Porta_04_01
+    6401082: Porta_05_00
+    6401084: Porta_05_01
+    6401086: Porta_05_02
+    6401088: Porta_05_03
+    6401090: Porta_05_04
+    6401092: PostoCob_00
+    6401094: PostoCon_00
+    6401096: "Po\xE7o_00"
+    6401098: Predio_00
+    6401100: Predio_01
+    6401102: Predio_02
+    6401104: Predio_03
+    6401106: Produtos Quimicos_00
+    6401108: Produtos Quimicos_01
+    6401110: Produtos Quimicos_02
+    6401112: Produtos Quimicos_03
+    6401114: Rua
+    6401116: Telhado_00_00
+    6401118: Telhado_01_00
+    6401120: Telhado_01_00.001
+    6401122: Telhado_01_01
+    6401124: Telhado_01_02
+    6401126: Telhado_02_00
+    6401128: Terreno Moldura_MeshPart0
+    6401130: Terreno Moldura_MeshPart1
+    6401132: Terreno_MeshPart0
+    6401134: Terreno_MeshPart1
+    6401136: Tunel_00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

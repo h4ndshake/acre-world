@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 0efbfeefe74edea40ad54fa75f05581f
+timeCreated: 1497998678
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: B_Boca
+    100004: B_Boca_end
+    100006: "B_Bra\xE7o_Direito"
+    100008: "B_Bra\xE7o_Direito_SEG00"
+    100010: "B_Bra\xE7o_Direito_SEG00_end"
+    100012: "B_Bra\xE7o_Esquerdo"
+    100014: "B_Bra\xE7o_Esquerdo_SEG00"
+    100016: "B_Bra\xE7o_Esquerdo_SEG00_end"
+    100018: B_Cauda
+    100020: B_Cauda_SEG00
+    100022: B_Cauda_SEG01
+    100024: B_Cauda_SEG02
+    100026: B_Cauda_SEG02_end
+    100028: B_Perna_Direita
+    100030: B_Perna_Direita_SEG00
+    100032: B_Perna_Direita_SEG01
+    100034: B_Perna_Direita_SEG01_end
+    100036: B_Perna_Esquerda
+    100038: B_Perna_Esquerda_SEG00
+    100040: B_Perna_Esquerda_SEG01
+    100042: B_Perna_Esquerda_SEG01_end
+    100044: B_Principal
+    100046: B_Principal_SEG00
+    100048: B_Principal_SEG01
+    100050: B_Principal_SEG01_end
+    100052: Camera
+    100054: Corpo
+    100056: Lamp
+    100058: //RootNode
+    400000: Armature
+    400002: B_Boca
+    400004: B_Boca_end
+    400006: "B_Bra\xE7o_Direito"
+    400008: "B_Bra\xE7o_Direito_SEG00"
+    400010: "B_Bra\xE7o_Direito_SEG00_end"
+    400012: "B_Bra\xE7o_Esquerdo"
+    400014: "B_Bra\xE7o_Esquerdo_SEG00"
+    400016: "B_Bra\xE7o_Esquerdo_SEG00_end"
+    400018: B_Cauda
+    400020: B_Cauda_SEG00
+    400022: B_Cauda_SEG01
+    400024: B_Cauda_SEG02
+    400026: B_Cauda_SEG02_end
+    400028: B_Perna_Direita
+    400030: B_Perna_Direita_SEG00
+    400032: B_Perna_Direita_SEG01
+    400034: B_Perna_Direita_SEG01_end
+    400036: B_Perna_Esquerda
+    400038: B_Perna_Esquerda_SEG00
+    400040: B_Perna_Esquerda_SEG01
+    400042: B_Perna_Esquerda_SEG01_end
+    400044: B_Principal
+    400046: B_Principal_SEG00
+    400048: B_Principal_SEG01
+    400050: B_Principal_SEG01_end
+    400052: Camera
+    400054: Corpo
+    400056: Lamp
+    400058: //RootNode
+    4300000: Corpo
+    7400000: Armature|ArmatureAction.001
+    9500000: //RootNode
+    13700000: Corpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction.001
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/B_Principal
+        weight: 1
+      - path: Armature/B_Principal/B_Boca
+        weight: 1
+      - path: Armature/B_Principal/B_Boca/B_Boca_end
+        weight: 1
+      - path: "Armature/B_Principal/B_Bra\xE7o_Direito"
+        weight: 1
+      - path: "Armature/B_Principal/B_Bra\xE7o_Direito/B_Bra\xE7o_Direito_SEG00"
+        weight: 1
+      - path: "Armature/B_Principal/B_Bra\xE7o_Direito/B_Bra\xE7o_Direito_SEG00/B_Bra\xE7o_Direito_SEG00_end"
+        weight: 1
+      - path: "Armature/B_Principal/B_Bra\xE7o_Esquerdo"
+        weight: 1
+      - path: "Armature/B_Principal/B_Bra\xE7o_Esquerdo/B_Bra\xE7o_Esquerdo_SEG00"
+        weight: 1
+      - path: "Armature/B_Principal/B_Bra\xE7o_Esquerdo/B_Bra\xE7o_Esquerdo_SEG00/B_Bra\xE7o_Esquerdo_SEG00_end"
+        weight: 1
+      - path: Armature/B_Principal/B_Cauda
+        weight: 1
+      - path: Armature/B_Principal/B_Cauda/B_Cauda_SEG00
+        weight: 1
+      - path: Armature/B_Principal/B_Cauda/B_Cauda_SEG00/B_Cauda_SEG01
+        weight: 1
+      - path: Armature/B_Principal/B_Cauda/B_Cauda_SEG00/B_Cauda_SEG01/B_Cauda_SEG02
+        weight: 1
+      - path: Armature/B_Principal/B_Cauda/B_Cauda_SEG00/B_Cauda_SEG01/B_Cauda_SEG02/B_Cauda_SEG02_end
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Direita
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Direita/B_Perna_Direita_SEG00
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Direita/B_Perna_Direita_SEG00/B_Perna_Direita_SEG01
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Direita/B_Perna_Direita_SEG00/B_Perna_Direita_SEG01/B_Perna_Direita_SEG01_end
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Esquerda
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Esquerda/B_Perna_Esquerda_SEG00
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Esquerda/B_Perna_Esquerda_SEG00/B_Perna_Esquerda_SEG01
+        weight: 1
+      - path: Armature/B_Principal/B_Perna_Esquerda/B_Perna_Esquerda_SEG00/B_Perna_Esquerda_SEG01/B_Perna_Esquerda_SEG01_end
+        weight: 1
+      - path: Armature/B_Principal/B_Principal_SEG00
+        weight: 1
+      - path: Armature/B_Principal/B_Principal_SEG00/B_Principal_SEG01
+        weight: 1
+      - path: Armature/B_Principal/B_Principal_SEG00/B_Principal_SEG01/B_Principal_SEG01_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

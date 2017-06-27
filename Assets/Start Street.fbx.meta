@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: ac64e1536505c0a41bbf77fb69136f8d
+timeCreated: 1493336903
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armario Cozinha
+    100002: Base Casa Genrica
+    100004: Base Casa Genrica.001
+    100006: Base Casa Genrica.002
+    100008: Base Casa Genrica.003
+    100010: Base Casa Genrica.004
+    100012: Base Casa Genrica.005
+    100014: Base Casa Genrica.006
+    100016: Base Casa Genrica.007
+    100018: Base Casa Genrica.008
+    100020: Base Casa Genrica.009
+    100022: Base Casa Genrica.010
+    100024: Cadeira
+    100026: Cadeira 2
+    100028: Caixa de Correio Generica
+    100030: Caixa de Correio Generica.001
+    100032: Caixa de Correio Generica.002
+    100034: Cama
+    100036: Carro
+    100038: Casa
+    100040: Casa.001
+    100042: Cerca Generica
+    100044: Cerca Generica.001
+    100046: Cerca Generica.002
+    100048: Cerca Generica.003
+    100050: Comoda Cama
+    100052: Comoda Corredor
+    100054: Comoda Tv
+    100056: Conjunto de Pratos
+    100058: Copo
+    100060: Copo 2
+    100062: Copo 3
+    100064: Copo 4
+    100066: Despertador Digital
+    100068: Donut
+    100070: Donut 2
+    100072: Farol Frontal
+    100074: Farol Traseiro
+    100076: Guarda Roupas
+    100078: Janela Corredor
+    100080: Janela Quarto
+    100082: Lata de Lixo Generica
+    100084: Lata de Lixo Generica.001
+    100086: Lixeira
+    100088: Mesa
+    100090: Pia
+    100092: Porta 01
+    100094: Porta 02
+    100096: Porta Banheiro
+    100098: Porta Casa Generica
+    100100: Porta Casa Generica.001
+    100102: Porta Casa Generica.002
+    100104: Porta Casa Generica.003
+    100106: Porta Casa Generica.004
+    100108: Porta Casa Generica.005
+    100110: Porta Casa Generica.006
+    100112: Porta Casa Generica.007
+    100114: Porta Casa Generica.008
+    100116: Porta Casa Generica.009
+    100118: Porta Casa Generica.010
+    100120: Porta Entrada
+    100122: Prato
+    100124: Rodas
+    100126: Rua
+    100128: //RootNode
+    100130: Telefone
+    100132: "Televis\xE3o"
+    100134: Telhado
+    100136: Telhado Casa Generica
+    100138: Telhado Casa Generica.001
+    100140: Telhado Casa Generica.002
+    100142: Telhado Casa Generica.003
+    100144: Telhado Casa Generica.004
+    100146: Telhado Casa Generica.005
+    100148: Telhado Casa Generica.006
+    100150: Telhado Casa Generica.007
+    100152: Telhado Casa Generica.008
+    100154: Telhado Casa Generica.009
+    100156: Telhado Casa Generica.010
+    100158: Teto
+    400000: Armario Cozinha
+    400002: Base Casa Genrica
+    400004: Base Casa Genrica.001
+    400006: Base Casa Genrica.002
+    400008: Base Casa Genrica.003
+    400010: Base Casa Genrica.004
+    400012: Base Casa Genrica.005
+    400014: Base Casa Genrica.006
+    400016: Base Casa Genrica.007
+    400018: Base Casa Genrica.008
+    400020: Base Casa Genrica.009
+    400022: Base Casa Genrica.010
+    400024: Cadeira
+    400026: Cadeira 2
+    400028: Caixa de Correio Generica
+    400030: Caixa de Correio Generica.001
+    400032: Caixa de Correio Generica.002
+    400034: Cama
+    400036: Carro
+    400038: Casa
+    400040: Casa.001
+    400042: Cerca Generica
+    400044: Cerca Generica.001
+    400046: Cerca Generica.002
+    400048: Cerca Generica.003
+    400050: Comoda Cama
+    400052: Comoda Corredor
+    400054: Comoda Tv
+    400056: Conjunto de Pratos
+    400058: Copo
+    400060: Copo 2
+    400062: Copo 3
+    400064: Copo 4
+    400066: Despertador Digital
+    400068: Donut
+    400070: Donut 2
+    400072: Farol Frontal
+    400074: Farol Traseiro
+    400076: Guarda Roupas
+    400078: Janela Corredor
+    400080: Janela Quarto
+    400082: Lata de Lixo Generica
+    400084: Lata de Lixo Generica.001
+    400086: Lixeira
+    400088: Mesa
+    400090: Pia
+    400092: Porta 01
+    400094: Porta 02
+    400096: Porta Banheiro
+    400098: Porta Casa Generica
+    400100: Porta Casa Generica.001
+    400102: Porta Casa Generica.002
+    400104: Porta Casa Generica.003
+    400106: Porta Casa Generica.004
+    400108: Porta Casa Generica.005
+    400110: Porta Casa Generica.006
+    400112: Porta Casa Generica.007
+    400114: Porta Casa Generica.008
+    400116: Porta Casa Generica.009
+    400118: Porta Casa Generica.010
+    400120: Porta Entrada
+    400122: Prato
+    400124: Rodas
+    400126: Rua
+    400128: //RootNode
+    400130: Telefone
+    400132: "Televis\xE3o"
+    400134: Telhado
+    400136: Telhado Casa Generica
+    400138: Telhado Casa Generica.001
+    400140: Telhado Casa Generica.002
+    400142: Telhado Casa Generica.003
+    400144: Telhado Casa Generica.004
+    400146: Telhado Casa Generica.005
+    400148: Telhado Casa Generica.006
+    400150: Telhado Casa Generica.007
+    400152: Telhado Casa Generica.008
+    400154: Telhado Casa Generica.009
+    400156: Telhado Casa Generica.010
+    400158: Teto
+    2300000: Armario Cozinha
+    2300002: Base Casa Genrica
+    2300004: Base Casa Genrica.001
+    2300006: Base Casa Genrica.002
+    2300008: Base Casa Genrica.003
+    2300010: Base Casa Genrica.004
+    2300012: Base Casa Genrica.005
+    2300014: Base Casa Genrica.006
+    2300016: Base Casa Genrica.007
+    2300018: Base Casa Genrica.008
+    2300020: Base Casa Genrica.009
+    2300022: Base Casa Genrica.010
+    2300024: Cadeira
+    2300026: Cadeira 2
+    2300028: Caixa de Correio Generica
+    2300030: Caixa de Correio Generica.001
+    2300032: Caixa de Correio Generica.002
+    2300034: Cama
+    2300036: Carro
+    2300038: Casa
+    2300040: Casa.001
+    2300042: Cerca Generica
+    2300044: Cerca Generica.001
+    2300046: Cerca Generica.002
+    2300048: Cerca Generica.003
+    2300050: Comoda Cama
+    2300052: Comoda Corredor
+    2300054: Comoda Tv
+    2300056: Conjunto de Pratos
+    2300058: Copo
+    2300060: Copo 2
+    2300062: Copo 3
+    2300064: Copo 4
+    2300066: Despertador Digital
+    2300068: Donut
+    2300070: Donut 2
+    2300072: Farol Frontal
+    2300074: Farol Traseiro
+    2300076: Guarda Roupas
+    2300078: Janela Corredor
+    2300080: Janela Quarto
+    2300082: Lata de Lixo Generica
+    2300084: Lata de Lixo Generica.001
+    2300086: Lixeira
+    2300088: Mesa
+    2300090: Pia
+    2300092: Porta 01
+    2300094: Porta 02
+    2300096: Porta Banheiro
+    2300098: Porta Casa Generica
+    2300100: Porta Casa Generica.001
+    2300102: Porta Casa Generica.002
+    2300104: Porta Casa Generica.003
+    2300106: Porta Casa Generica.004
+    2300108: Porta Casa Generica.005
+    2300110: Porta Casa Generica.006
+    2300112: Porta Casa Generica.007
+    2300114: Porta Casa Generica.008
+    2300116: Porta Casa Generica.009
+    2300118: Porta Casa Generica.010
+    2300120: Porta Entrada
+    2300122: Prato
+    2300124: Rodas
+    2300126: Rua
+    2300128: Telefone
+    2300130: "Televis\xE3o"
+    2300132: Telhado
+    2300134: Telhado Casa Generica
+    2300136: Telhado Casa Generica.001
+    2300138: Telhado Casa Generica.002
+    2300140: Telhado Casa Generica.003
+    2300142: Telhado Casa Generica.004
+    2300144: Telhado Casa Generica.005
+    2300146: Telhado Casa Generica.006
+    2300148: Telhado Casa Generica.007
+    2300150: Telhado Casa Generica.008
+    2300152: Telhado Casa Generica.009
+    2300154: Telhado Casa Generica.010
+    2300156: Teto
+    3300000: Armario Cozinha
+    3300002: Base Casa Genrica
+    3300004: Base Casa Genrica.001
+    3300006: Base Casa Genrica.002
+    3300008: Base Casa Genrica.003
+    3300010: Base Casa Genrica.004
+    3300012: Base Casa Genrica.005
+    3300014: Base Casa Genrica.006
+    3300016: Base Casa Genrica.007
+    3300018: Base Casa Genrica.008
+    3300020: Base Casa Genrica.009
+    3300022: Base Casa Genrica.010
+    3300024: Cadeira
+    3300026: Cadeira 2
+    3300028: Caixa de Correio Generica
+    3300030: Caixa de Correio Generica.001
+    3300032: Caixa de Correio Generica.002
+    3300034: Cama
+    3300036: Carro
+    3300038: Casa
+    3300040: Casa.001
+    3300042: Cerca Generica
+    3300044: Cerca Generica.001
+    3300046: Cerca Generica.002
+    3300048: Cerca Generica.003
+    3300050: Comoda Cama
+    3300052: Comoda Corredor
+    3300054: Comoda Tv
+    3300056: Conjunto de Pratos
+    3300058: Copo
+    3300060: Copo 2
+    3300062: Copo 3
+    3300064: Copo 4
+    3300066: Despertador Digital
+    3300068: Donut
+    3300070: Donut 2
+    3300072: Farol Frontal
+    3300074: Farol Traseiro
+    3300076: Guarda Roupas
+    3300078: Janela Corredor
+    3300080: Janela Quarto
+    3300082: Lata de Lixo Generica
+    3300084: Lata de Lixo Generica.001
+    3300086: Lixeira
+    3300088: Mesa
+    3300090: Pia
+    3300092: Porta 01
+    3300094: Porta 02
+    3300096: Porta Banheiro
+    3300098: Porta Casa Generica
+    3300100: Porta Casa Generica.001
+    3300102: Porta Casa Generica.002
+    3300104: Porta Casa Generica.003
+    3300106: Porta Casa Generica.004
+    3300108: Porta Casa Generica.005
+    3300110: Porta Casa Generica.006
+    3300112: Porta Casa Generica.007
+    3300114: Porta Casa Generica.008
+    3300116: Porta Casa Generica.009
+    3300118: Porta Casa Generica.010
+    3300120: Porta Entrada
+    3300122: Prato
+    3300124: Rodas
+    3300126: Rua
+    3300128: Telefone
+    3300130: "Televis\xE3o"
+    3300132: Telhado
+    3300134: Telhado Casa Generica
+    3300136: Telhado Casa Generica.001
+    3300138: Telhado Casa Generica.002
+    3300140: Telhado Casa Generica.003
+    3300142: Telhado Casa Generica.004
+    3300144: Telhado Casa Generica.005
+    3300146: Telhado Casa Generica.006
+    3300148: Telhado Casa Generica.007
+    3300150: Telhado Casa Generica.008
+    3300152: Telhado Casa Generica.009
+    3300154: Telhado Casa Generica.010
+    3300156: Teto
+    4300000: Casa.001
+    4300002: Cerca Generica.003
+    4300004: Cerca Generica.002
+    4300006: Cerca Generica
+    4300008: Porta Casa Generica.010
+    4300010: Telhado Casa Generica.010
+    4300012: Base Casa Genrica.010
+    4300014: Base Casa Genrica.009
+    4300016: Telhado Casa Generica.009
+    4300018: Porta Casa Generica.009
+    4300020: Caixa de Correio Generica.002
+    4300022: Porta Casa Generica.008
+    4300024: Telhado Casa Generica.008
+    4300026: Base Casa Genrica.008
+    4300028: Base Casa Genrica.007
+    4300030: Porta Casa Generica.007
+    4300032: Telhado Casa Generica.007
+    4300034: Telhado Casa Generica.006
+    4300036: Porta Casa Generica.006
+    4300038: Base Casa Genrica.006
+    4300040: Base Casa Genrica.005
+    4300042: Porta Casa Generica.005
+    4300044: Telhado Casa Generica.005
+    4300046: Telhado Casa Generica.004
+    4300048: Porta Casa Generica.004
+    4300050: Base Casa Genrica.004
+    4300052: Caixa de Correio Generica
+    4300054: Caixa de Correio Generica.001
+    4300056: Lata de Lixo Generica.001
+    4300058: Lata de Lixo Generica
+    4300060: Base Casa Genrica.001
+    4300062: Telhado Casa Generica.001
+    4300064: Porta Casa Generica.001
+    4300066: Porta Casa Generica
+    4300068: Telhado Casa Generica
+    4300070: Base Casa Genrica
+    4300072: Rua
+    4300074: Base Casa Genrica.002
+    4300076: Porta Casa Generica.002
+    4300078: Telhado Casa Generica.002
+    4300080: Base Casa Genrica.003
+    4300082: Porta Casa Generica.003
+    4300084: Telhado Casa Generica.003
+    4300086: Cerca Generica.001
+    4300088: Armario Cozinha
+    4300090: Cadeira
+    4300092: Cadeira 2
+    4300094: Cama
+    4300096: Casa
+    4300098: Comoda Cama
+    4300100: Comoda Corredor
+    4300102: Comoda Tv
+    4300104: Conjunto de Pratos
+    4300106: Copo
+    4300108: Copo 2
+    4300110: Copo 3
+    4300112: Copo 4
+    4300114: Despertador Digital
+    4300116: Donut
+    4300118: Donut 2
+    4300120: Guarda Roupas
+    4300122: Janela Corredor
+    4300124: Janela Quarto
+    4300126: Lixeira
+    4300128: Mesa
+    4300130: Pia
+    4300132: Porta Banheiro
+    4300134: Porta Entrada
+    4300136: Prato
+    4300138: Telefone
+    4300140: "Televis\xE3o"
+    4300142: Telhado
+    4300144: Teto
+    4300146: Carro
+    4300148: Farol Frontal
+    4300150: Farol Traseiro
+    4300152: Porta 01
+    4300154: Porta 02
+    4300156: Rodas
+    6400000: Armario Cozinha
+    6400002: Base Casa Genrica
+    6400004: Base Casa Genrica.001
+    6400006: Base Casa Genrica.002
+    6400008: Base Casa Genrica.003
+    6400010: Base Casa Genrica.004
+    6400012: Base Casa Genrica.005
+    6400014: Base Casa Genrica.006
+    6400016: Base Casa Genrica.007
+    6400018: Base Casa Genrica.008
+    6400020: Base Casa Genrica.009
+    6400022: Base Casa Genrica.010
+    6400024: Cadeira
+    6400026: Cadeira 2
+    6400028: Caixa de Correio Generica
+    6400030: Caixa de Correio Generica.001
+    6400032: Caixa de Correio Generica.002
+    6400034: Cama
+    6400036: Carro
+    6400038: Casa
+    6400040: Casa.001
+    6400042: Cerca Generica
+    6400044: Cerca Generica.001
+    6400046: Cerca Generica.002
+    6400048: Cerca Generica.003
+    6400050: Comoda Cama
+    6400052: Comoda Corredor
+    6400054: Comoda Tv
+    6400056: Conjunto de Pratos
+    6400058: Copo
+    6400060: Copo 2
+    6400062: Copo 3
+    6400064: Copo 4
+    6400066: Despertador Digital
+    6400068: Donut
+    6400070: Donut 2
+    6400072: Farol Frontal
+    6400074: Farol Traseiro
+    6400076: Guarda Roupas
+    6400078: Janela Corredor
+    6400080: Janela Quarto
+    6400082: Lata de Lixo Generica
+    6400084: Lata de Lixo Generica.001
+    6400086: Lixeira
+    6400088: Mesa
+    6400090: Pia
+    6400092: Porta 01
+    6400094: Porta 02
+    6400096: Porta Banheiro
+    6400098: Porta Casa Generica
+    6400100: Porta Casa Generica.001
+    6400102: Porta Casa Generica.002
+    6400104: Porta Casa Generica.003
+    6400106: Porta Casa Generica.004
+    6400108: Porta Casa Generica.005
+    6400110: Porta Casa Generica.006
+    6400112: Porta Casa Generica.007
+    6400114: Porta Casa Generica.008
+    6400116: Porta Casa Generica.009
+    6400118: Porta Casa Generica.010
+    6400120: Porta Entrada
+    6400122: Prato
+    6400124: Rodas
+    6400126: Rua
+    6400128: Telefone
+    6400130: "Televis\xE3o"
+    6400132: Telhado
+    6400134: Telhado Casa Generica
+    6400136: Telhado Casa Generica.001
+    6400138: Telhado Casa Generica.002
+    6400140: Telhado Casa Generica.003
+    6400142: Telhado Casa Generica.004
+    6400144: Telhado Casa Generica.005
+    6400146: Telhado Casa Generica.006
+    6400148: Telhado Casa Generica.007
+    6400150: Telhado Casa Generica.008
+    6400152: Telhado Casa Generica.009
+    6400154: Telhado Casa Generica.010
+    6400156: Teto
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
