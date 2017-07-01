@@ -1,24 +1,27 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class map001 : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	void Start() {
 		StartCoroutine("Wait");
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
+	void Update() {
+    if (Input.GetKeyDown(KeyCode.V)) {
+      Application.LoadLevel("scene002");
+    }
+
+    if (Input.GetKeyDown(KeyCode.Escape)) {
+      Application.LoadLevel("UI");
+    }
 	}
 
-	IEnumerator Wait()
-	{
-		yield return new WaitForSeconds(120);
-
-		Application.LoadLevel("scene002");
+	IEnumerator Wait() {
+		yield return new WaitForSeconds(60);
+    Application.LoadLevel("scene002");
 	}
 
 }

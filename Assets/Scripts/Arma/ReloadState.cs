@@ -18,7 +18,7 @@ public class ReloadState : StateMachineBehaviour {
       return;
 
     if (stateInfo.normalizedTime >= reloadTime ) {
-      animator.GetComponent<Arma>().Reload();
+      animator.GetComponent<Weapon>().Reload();
       hasReloaded = true;
     }
 	}

@@ -39,7 +39,7 @@ public class MENU : MonoBehaviour {
 			}
 		}
 		//
-		nomeDaCena = SceneManager.GetActiveScene ().name;
+		nomeDaCena = SceneManager.GetActiveScene().name;
 		Cursor.visible = true;
 		Time.timeScale = 1;
 		//
@@ -169,7 +169,7 @@ public class MENU : MonoBehaviour {
 		}
 	}
 	private void Jogar(){
-		SceneManager.LoadScene (nomeCenaJogo);
+		SceneManager.LoadScene(nomeCenaJogo);
 	}
 	private void Sair(){
 		Application.Quit ();

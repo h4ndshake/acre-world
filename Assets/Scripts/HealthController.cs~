@@ -1,9 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class HealthController : MonoBehaviour {
-
   [SerializeField] float health;
 
   public void ApplyDamage(float damage) {
@@ -12,7 +9,14 @@ public class HealthController : MonoBehaviour {
     health -= damage;
 
     if (health <= 0f) {
-      Destroy(gameObject, 3);
+      Component[] renderers = GetComponentsInChildren(typeof(Renderer));
+      foreach(Renderer childRenderer in renderers)
+      {
+        foreach (Material mat in childRenderer.materials) {
+          mat.color = Color.red;
+        }
+      }
+      Destroy(gameObject, 2);
     }
   }
 }

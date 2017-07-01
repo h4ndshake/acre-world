@@ -1,0 +1,51 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class AmmoAndHealth : MonoBehaviour
+{
+  public KeyCode ammoKey = KeyCode.E;
+  public AudioClip ammoSound;
+  public float itemDistance = 3;
+
+  Weapon weaponScript;
+    
+  bool canGetItem;
+  AudioSource soundEmissor;
+
+  void Start() {
+    soundEmissor = GetComponent<AudioSource>();
+  }
+
+  void Update() {
+    float distance = Vector3.Distance(transform.position, weaponScript.gameObject.transform.position);
+
+    if (distance < itemDistance) {
+      canGetItem = true;
+    } else {
+      canGetItem = false;
+    }
+        
+    if (Input.GetKeyDown(ammoKey) && canGetItem) {
+      int extraBullets = weaponScript.totalBullets - weaponScript.bulletsPerMag;
+          
+      if (weaponScript.bulletsLeft < extraBullets) {
+        weaponScript.currentBullets += weaponScript.bulletsPerMag;
+                
+        GameObject soundEmissor = new GameObject();
+        soundEmissor.AddComponent(typeof(AudioSource));
+        soundEmissor.GetComponent<AudioSource>().PlayOneShot(ammoSound);
+          Destroy(soundEmissor.gameObject, 5);
+        Destroy(gameObject);       
+      }
+    }
+  }
+
+  void OnGUI() {
+    if (canGetItem == true) {
+      GUIStyle stylez = new GUIStyle();
+      stylez.alignment = TextAnchor.MiddleCenter;
+      GUI.skin.label.fontSize = 20;
+      GUI.Label(new Rect(Screen.width / 2 - 50, Screen.height / 2 + 50, 200, 30), "Pressione: " + ammoKey);
+    }
+  }
+}
